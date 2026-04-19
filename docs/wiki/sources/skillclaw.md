@@ -28,6 +28,10 @@ SkillClaw makes LLM agents progressively better by **evolving reusable skills** 
 - **License**: MIT
 - **Language**: Python (98.9%), Shell (1.1%)
 
+## Architecture
+
+![Two Loops: Hermes task-time loop + SkillClaw post-task evolution loop](./media/skillclaw_two_loops.svg)
+
 ## Key Features
 
 - **Collective Skill Evolution** - Skills evolve from every session, every agent, every context
