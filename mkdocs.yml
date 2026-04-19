@@ -1,56 +1,56 @@
 site_name: hearme AI Wiki
-docs_dir: wiki
+docs_dir: docs
 theme:
   name: material
-  favicon: favicon.ico
-  logo: logo.png
+  favicon: wiki/favicon.ico
+  logo: wiki/logo.png
 
 markdown_extensions:
   - attr_list
 
 nav:
-  - Index: index.md
+  - Index: wiki/index.md
   - Topics:
     - AI Fundamental: 
-      - AI lanscape: topics/ai_landscape.md
-      - Generative AI: topics/llm.md
+      - AI lanscape: wiki/topics/ai_landscape.md
+      - Generative AI: wiki/topics/llm.md
     - Building AI applications:
-      - AI Pipeline: topics/Building_AI_applications.md
-      - Data processing: topics/Data_processing.md
-      - Building AI agents: topics/Building_Agents.md
+      - AI Pipeline: wiki/topics/Building_AI_applications.md
+      - Data processing: wiki/topics/Data_processing.md
+      - Building AI agents: wiki/topics/Building_Agents.md
     - AI Agents:
-      - Overview: topics/agent_applications.md
-      - Builder Agents: topics/builder_agents.md
-      - Personal Agent: topics/personal_agent.md
+      - Overview: wiki/topics/agent_applications.md
+      - Builder Agents: wiki/topics/builder_agents.md
+      - Personal Agent: wiki/topics/personal_agent.md
 
   - Sources:
-    - sources/turboquant.md
-    - sources/scrapling.md
-    - sources/strix.md
-    - sources/hermes_agent.md
-    - sources/claude_mem.md
-    - sources/multica.md
-    - sources/opendataloader_pdf.md
-    - sources/medgemma.md
-    - sources/qwenpaw.md
-    - sources/llm_optimization_72_techniques.md
-    - sources/liteparse.md
-    - sources/autoskills.md
-    - sources/autoresearchclaw.md
-    - sources/agentic_ai_big_picture.md
+    - wiki/sources/turboquant.md
+    - wiki/sources/scrapling.md
+    - wiki/sources/strix.md
+    - wiki/sources/hermes_agent.md
+    - wiki/sources/claude_mem.md
+    - wiki/sources/multica.md
+    - wiki/sources/opendataloader_pdf.md
+    - wiki/sources/medgemma.md
+    - wiki/sources/qwenpaw.md
+    - wiki/sources/llm_optimization_72_techniques.md
+    - wiki/sources/liteparse.md
+    - wiki/sources/autoskills.md
+    - wiki/sources/autoresearchclaw.md
+    - wiki/sources/agentic_ai_big_picture.md
   - Entities:
-    - entities/aiming_lab.md
-    - entities/nous_research.md
-    - entities/autoskills.md
-    - entities/midudev.md
-    - entities/skills_sh.md
-    - entities/multica_ai.md
-    - entities/opendataloader_project.md
-    - entities/strix.md
-    - entities/thedotmack.md
-    - entities/agentscope_team.md
-    - entities/run_llama.md
-    - entities/google_health.md
+    - wiki/entities/aiming_lab.md
+    - wiki/entities/nous_research.md
+    - wiki/entities/autoskills.md
+    - wiki/entities/midudev.md
+    - wiki/entities/skills_sh.md
+    - wiki/entities/multica_ai.md
+    - wiki/entities/opendataloader_project.md
+    - wiki/entities/strix.md
+    - wiki/entities/thedotmack.md
+    - wiki/entities/agentscope_team.md
+    - wiki/entities/run_llama.md
+    - wiki/entities/google_health.md
   - Concepts:
-    - concepts/ai_agent_skills.md
-  - Log: log.md
+    - wiki/concepts/ai_agent_skills.md
+  - Log: wiki/log.md
