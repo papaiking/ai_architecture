@@ -1,0 +1,87 @@
+---
+title: "LiteParse"
+type: "source"
+category: "Data_processing"
+tags: ["pdf", "parsing", "data-extraction", "ocr", "local"]
+created: "2026-04-18"
+updated: "2026-04-18"
+related_topics: ["topics/Data_processing.md"]
+---
+
+# LiteParse
+
+**Type**: PDF Data Extraction Tool
+
+## Overview
+
+Standalone open-source PDF parsing tool focused on fast and light parsing. Provides high-quality spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies. Everything runs locally.
+
+## Details
+
+- **Org**: run-llama
+- **License**: Apache 2.0
+
+## Key Features
+
+- **Fast Text Parsing** — Spatial text parsing using PDF.js
+- **Flexible OCR System** — Built-in Tesseract.js (zero setup), or plug in HTTP OCR servers (EasyOCR, PaddleOCR)
+- **Screenshot Generation** — Generate high-quality page screenshots for LLM agents
+- **Multiple Output Formats** — JSON and Text
+- **Bounding Boxes** — Precise text positioning information
+- **Standalone Binary** — No cloud dependencies, runs entirely locally
+- **Multi-platform** — Linux, macOS (Intel/ARM), Windows
+- **Multi-format Input** — Auto-converts Word, Excel, PPT, images to PDF via LibreOffice/ImageMagick
+
+## Installation
+
+```bash
+# Global install via npm
+npm i -g @llamaindex/liteparse
+
+# Or via Homebrew (macOS/Linux)
+brew tap run-llama/liteparse
+brew install llamaindex-liteparse
+```
+
+## Usage
+
+```bash
+# Basic parsing
+lit parse document.pdf
+
+# Parse with JSON output
+lit parse document.pdf --format json -o output.json
+
+# Generate screenshots
+lit screenshot document.pdf -o ./screenshots
+
+# Batch parsing
+lit batch-parse ./input-directory ./output-directory
+```
+
+## Library Usage
+
+```typescript
+import { LiteParse } from '@llamaindex/liteparse';
+
+const parser = new LiteParse({ ocrEnabled: true });
+const result = await parser.parse('document.pdf');
+console.log(result.text);
+```
+
+## OCR Options
+
+- **Default**: Tesseract.js (zero setup, works out of the box)
+- **Optional**: HTTP OCR servers via simple API specification
+- **Supported**: EasyOCR, PaddleOCR, or custom HTTP OCR services
+
+---
+
+## Nguồn
+
+- raw/liteparse.md
+
+## Liên kết liên quan
+
+- [Building AI Applications](../topics/Building_AI_apps.md)
+- [Run Llama](../entities/run_llama.md)

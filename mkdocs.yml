@@ -1,0 +1,56 @@
+site_name: hearme AI Wiki
+docs_dir: wiki
+theme:
+  name: material
+  favicon: favicon.ico
+  logo: logo.png
+
+markdown_extensions:
+  - attr_list
+
+nav:
+  - Index: index.md
+  - Topics:
+    - AI Fundamental: 
+      - AI lanscape: topics/ai_landscape.md
+      - Generative AI: topics/llm.md
+    - Building AI applications:
+      - AI Pipeline: topics/Building_AI_applications.md
+      - Data processing: topics/Data_processing.md
+      - Building AI agents: topics/Building_Agents.md
+    - AI Agents:
+      - Overview: topics/agent_applications.md
+      - Builder Agents: topics/builder_agents.md
+      - Personal Agent: topics/personal_agent.md
+
+  - Sources:
+    - sources/turboquant.md
+    - sources/scrapling.md
+    - sources/strix.md
+    - sources/hermes_agent.md
+    - sources/claude_mem.md
+    - sources/multica.md
+    - sources/opendataloader_pdf.md
+    - sources/medgemma.md
+    - sources/qwenpaw.md
+    - sources/llm_optimization_72_techniques.md
+    - sources/liteparse.md
+    - sources/autoskills.md
+    - sources/autoresearchclaw.md
+    - sources/agentic_ai_big_picture.md
+  - Entities:
+    - entities/aiming_lab.md
+    - entities/nous_research.md
+    - entities/autoskills.md
+    - entities/midudev.md
+    - entities/skills_sh.md
+    - entities/multica_ai.md
+    - entities/opendataloader_project.md
+    - entities/strix.md
+    - entities/thedotmack.md
+    - entities/agentscope_team.md
+    - entities/run_llama.md
+    - entities/google_health.md
+  - Concepts:
+    - concepts/ai_agent_skills.md
+  - Log: log.md
