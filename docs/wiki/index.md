@@ -2,7 +2,8 @@
 
 ## Topics
 - [AI Fundamental](topics/ai_landscape.md)
-- [Building AI Applications](topics/Building_AI_apps.md)
+- [Building AI Applications](topics/building_ai_applications/building_ai_applications.md)
+*   [AI Applications](topics/building_ai_applications/ai_applications.md)
 - [Personal Agents](topics/personal_agent.md)
 - [Builder Agents](topics/builder_agents.md)
 - [Research Agents](topics/Research_agents.md)
@@ -48,7 +49,7 @@
 - [AutoResearchClaw](sources/autoresearchclaw.md) - Research pipeline from idea to paper
 
 ### Building_AI_applications
-- [Scrapling](sources/scrapling.md) - Web scraping
+- [Awesome LLM Apps](sources/awesome_llm_apps.md)
 
 ---
 

@@ -6,6 +6,7 @@ Danh sách tất cả nguồn raw trong thư mục này.
 
 - [autoresearchclaw.md](./autoresearchclaw.md) - AutoResearchClaw (research agent)
 - [autoskills.md](./autoskills.md) - Autoskills (CLI tool)
+- [awesome_llm_apps.md](./awesome_llm_apps.md) - Awesome LLM Apps (100+ templates)
 
 ## C
 

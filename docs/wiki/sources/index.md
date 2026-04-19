@@ -7,6 +7,7 @@ Danh sách tất cả sources trong thư mục này.
 - [agentic_ai_big_picture.md](./agentic_ai_big_picture.md) - Agentic AI: The Big Picture
 - [autoresearchclaw.md](./autoresearchclaw.md) - AutoResearchClaw (research pipeline)
 - [autoskills.md](./autoskills.md) - Autoskills (CLI tool for AI skills)
+- [awesome_llm_apps.md](./awesome_llm_apps.md) - Awesome LLM Apps (100+ templates)
 
 ## C
 

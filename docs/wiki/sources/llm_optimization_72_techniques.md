@@ -28,6 +28,8 @@ Comprehensive guide explaining 72 techniques to optimize LLMs in production, org
 | 8. Input/Output Shaping | Prompt Compression, Context Pruning, Response Length Caps, Few-shot Pruning |
 | 9. Routing & Cost | Model Routing, Model Cascading, Classifier Routing, QoS Tiers |
 
+![72 Techniques Grid](../media/llm_optimization_72_techniques.png)
+
 ## Key Insights
 
 1. **No single optimization matters** - Stack techniques layered on each other
@@ -45,10 +47,6 @@ A reasonable setup might use:
 - Semantic caching at application layer
 - Prompt compression for long retrieved contexts
 - Model routing for trivial queries
-
-## Image
-
-![72 Techniques Grid](../media/llm_optimization_72_techniques.png)
 
 ---
 
