@@ -11,12 +11,7 @@ updated: "2026-04-19"
 
 Các tác nhân AI chuyên biệt cho quy trình nghiên cứu khoa học.
 
-## Related Sources
+## Agent Sources
 
 - [AutoResearchClaw](../sources/autoresearchclaw.md) - Fully autonomous research from idea to paper
 
----
-
-## Liên kết liên quan
-
-- [AI Fundamental](./AI_Fundamental.md)

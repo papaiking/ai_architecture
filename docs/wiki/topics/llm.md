@@ -7,7 +7,7 @@ created: "2026-04-17"
 updated: "2026-04-19"
 ---
 
-# AI Fundamental
+# Generative AI and LLM
 
 Kiến thức nền tảng về AI, Generative AI, LLM models, foundation models.
 

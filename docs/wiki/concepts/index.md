@@ -1,9 +1,7 @@
-# index.md - Danh mục Concepts
+# Concepts Index
+
+Danh sách tất cả concepts trong thư mục này.
 
 ## A
 
-## B
-
-## C
-
-
+- [ai_agent_skills.md](./ai_agent_skills.md) - AI Agent Skills (skills system for AI agents)
