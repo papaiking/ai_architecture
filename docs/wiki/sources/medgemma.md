@@ -5,7 +5,7 @@ category: "AI_Fundamental"
 tags: ["llm", "medical-ai", "gemma", "multimodal", "healthcare", "google"]
 created: "2026-04-18"
 updated: "2026-04-18"
-related_topics: ["topics/AI_Fundamental.md"]
+related_topics: ["topics/ai_landscape.md"]
 entities: ["google_health.md"]
 ---
 
@@ -54,8 +54,8 @@ MedGemma is a collection of Gemma 3 variants trained for medical text and image 
 
 ## Nguồn
 
-- [raw/medgemma.md](../raw/medgemma.md)
+- [raw/medgemma.md](../../raw/medgemma.md)
 
 ## Liên kết liên quan
 
-- [AI Fundamental](../topics/AI_Fundamental.md)
+- [AI Fundamental](../topics/ai_landscape.md)

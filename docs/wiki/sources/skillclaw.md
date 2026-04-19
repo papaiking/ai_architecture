@@ -5,7 +5,7 @@ category: "Builder_agents"
 tags: ["skills", "evolution", "collective", "hermes", "openclaw", "agent"]
 created: "2026-04-20"
 updated: "2026-04-20"
-related_topics: ["wiki/topics/agent_skills.md"]
+related_topics: ["topics/agent_skills.md"]
 ---
 
 # SkillClaw
@@ -96,4 +96,4 @@ skillclaw start --daemon
 
 ## Liên kết liên quan
 
-- [Agent Skills](../wiki/topics/agent_skills.md)
+- [Agent Skills](../topics/agent_skills.md)

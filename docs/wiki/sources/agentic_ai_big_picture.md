@@ -49,9 +49,9 @@ This is where AI stops being a feature and starts becoming a **digital teammate*
 ## Nguồn
 
 - [LinkedIn Post](https://www.linkedin.com/posts/agentic-ai-the-big-picture)
-- [Media](./media/agentic_ai_big_picture.png)
+- [Media](../media/agentic_ai_big_picture.png)
 
 ## Liên kết liên quan
 
-- [AI Fundamental](../topics/AI_Fundamental.md)
-- [Building Agents](../topics/Building_Agents.md)
+- [AI Fundamental](../topics/ai_landscape.md)
+- [Builder Agents](../topics/builder_agents.md)

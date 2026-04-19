@@ -1,7 +1,7 @@
 # Index
 
 ## Topics
-- [AI Fundamental](topics/AI_Fundamental.md)
+- [AI Fundamental](topics/ai_landscape.md)
 - [Building AI Applications](topics/Building_AI_apps.md)
 - [Personal Agents](topics/personal_agent.md)
 - [Builder Agents](topics/builder_agents.md)
@@ -27,7 +27,6 @@
 ### AI_Fundamental
 - [TurboQuant](sources/turboquant.md) - KV cache quantization
 - [MedGemma](sources/medgemma.md) - Medical AI LLM
-- [LLM AI Document](sources/llm_ai.md) - LLM documentation
 - [72 Techniques to Optimize LLMs](sources/llm_optimization_72_techniques.md) - Production optimization
 - [Agentic AI: The Big Picture](sources/agentic_ai_big_picture.md) - AI evolution from models to agents
 
