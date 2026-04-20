@@ -68,6 +68,7 @@ A comprehensive course with 260+ lessons across 20 phases (~290 hours). Every le
 ## Course Output
 
 Every lesson produces a reusable artifact:
+
 - 📝 **Prompts** - Paste into any AI assistant
 - 🎴 **Skills** - Install into Claude Code, Cursor
 - 🤖 **Agents** - Deploy as autonomous workers

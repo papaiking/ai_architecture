@@ -12,6 +12,11 @@ sources: ["sources/awesome_llm_apps.md"]
 
 This topic covers various applications of Artificial Intelligence, focusing on how AI is used to build practical solutions and tools.
 
+## AI Classification
+
+- [Segmentation with Internet-Augmented Multimodal LLMs](../sources/segmentation_internet_rag.md) - Using RAG to solve knowledge cutoff in segmentation models
+
+
 ## Templates & Collections
 
 - [Awesome LLM Apps](../sources/awesome_llm_apps.md) - 100+ AI Agent & RAG templates you can run (106k stars)

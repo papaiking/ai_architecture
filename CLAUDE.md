@@ -146,7 +146,7 @@ Khi người dùng yêu cầu ingest một file hoặc tài liệu, thực hiệ
 1. **Cập nhật nội dung vào thư mục gốc**
    - Nếu tài liệu đã nằm trong folder: `docs/raw/`, hãy bỏ qua bước này
    - Chuyển toàn bộ nội dung yêu cầu thành file formart markdown: giữ nguyên nội dung, kể cả ảnh và media. Nếu có ảnh, hãy downloaf về thư mục media trong  project này
-   - Đặt tên file tài liệu dạng: doc-title_yyyyMMdd.md.
+   - Ghi nội dung ra file *.md nằm trong thư mục: `docs/raw/` với tên file tài liệu dạng: doc-title_yyyyMMdd.md
 
 2. **Đọc và hiểu**
    - Đọc nội dung file nguồn (có thể chia nhiều lượt nếu file dài).
@@ -167,8 +167,9 @@ Khi người dùng yêu cầu ingest một file hoặc tài liệu, thực hiệ
    - Thêm frontmatter với `type: "source"`.
 
 5. **Cập nhật topic/overview (nếu liên quan)**
-  - Mở trang topic tương ứng trong `topics/` (tạo mới nếu chưa có) hoặc có thể bổ sung nội dung vào các topic hiện có.
-  - Nếu cần tạo topic mới, hãy tạo topic, tồi tạo navigation link trong mkdocs.yml.
+  - Đây là bước cập nhật bắt buộc đối với mọi tài liệu được thêm mới vào hệ thống
+  - Mở topic tương ứng trong cây topic tại thư mục: `topics/` (tạo mới nếu chưa có) hoặc có thể bổ sung nội dung vào các topic hiện có.
+  - Nếu cần tạo topic mới, hãy tạo topic, rồi tạo navigation link trong mkdocs.yml.
 
 6. **Cập nhật/ tạo các trang entity & concept**
    - Với mỗi entity/concept quan trọng:

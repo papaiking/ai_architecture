@@ -39,6 +39,7 @@ Danh sách tất cả sources trong thư mục này.
 ## S
 
 - [scrapling.md](./scrapling.md) - Scrapling (web scraping)
+- [segmentation_internet_rag.md](./segmentation_internet_rag.md) - Segmentation with Internet-Augmented LLMs
 - [skillclaw.md](./skillclaw.md) - SkillClaw (skill evolution system)
 - [strix.md](./strix.md) - Strix (security testing)
 
