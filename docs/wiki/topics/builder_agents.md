@@ -19,4 +19,5 @@ Các tác nhân AI hỗ trợ lập trình viên trong phát triển phần mề
 ## Agent Tools 
 - [Autoskills](../sources/autoskills.md) - Auto-install skills for AI agents
 - [Claude-Mem](../sources/claude_mem.md) - Persistent memory for coding agents
+- [The Anatomy of an Agent Harness](../sources/agent_harness.md) - 11 components of production agent harness
 

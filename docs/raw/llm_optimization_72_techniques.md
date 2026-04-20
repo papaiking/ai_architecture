@@ -14,6 +14,8 @@ Comprehensive guide explaining 72 techniques to optimize LLMs in production, org
 
 ## 9 Categories (72 Techniques)
 
+![72 Techniques Grid](../wiki/media/llm_optimization_72_techniques.png)
+
 ### 1. Model Compression (8 techniques)
 INT4, INT8, FP8, GPTQ, AWQ, SmoothQuant, Distillation, Pruning
 
@@ -47,9 +49,6 @@ Model Routing, Model Cascading, Classifier Routing, Multi-provider Failover, QoS
 2. Gap between naive and optimized deployment: 5-8x cost efficiency
 3. Work shifted from model compression to serving optimization
 
-## Image
-
-![72 Techniques Grid](../media/llm_optimization_72_techniques.png)
 
 ---
 

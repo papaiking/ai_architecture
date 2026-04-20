@@ -32,7 +32,7 @@ Dùng **Retrieval-Augmented Generation (RAG)** để cho mô hình truy cập we
 
 ## Related Concepts
 
-- [Classification by combining to Internet RAG](../concepts/classification_with_internet_rag.md)
+- [Classification by combining to Internet RAG](../wiki/concepts/classification_with_internet_rag.md)
 
 ---
 

@@ -2,8 +2,9 @@
 
 ## Topics
 - [AI Fundamental](topics/ai_landscape.md)
-- [Building AI Applications](topics/building_ai_applications/building_ai_applications.md)
-*   [AI Applications](topics/building_ai_applications/ai_applications.md)
+- [AI Applications](topics/ai_applications.md)
+- [AI Agents](topics/ai_agents.md)
+  - [Building Agent Apps](topics/building_agent_apps.md)
 - [Personal Agents](topics/personal_agent.md)
 - [Builder Agents](topics/builder_agents.md)
 - [Research Agents](topics/Research_agents.md)

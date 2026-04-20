@@ -1,7 +1,11 @@
 # Concepts Index
 
-Danh sách tất cả concepts trong thư mục này.
+Danh sách tất cả concepts trong thư mục này, được phân loại theo title (A-Z).
 
 ## A
 
-- [ai_agent_skills.md](./ai_agent_skills.md) - AI Agent Skills (skills system for AI agents)
+- [AI Agent Skills](./ai_agent_skills.md) - AI Agent Skills (skills system for AI agents)
+
+## C
+
+- [Classification by combining to Internet RAG](./classification_with_internet_rag.md) - Classification by combining to Internet RAG

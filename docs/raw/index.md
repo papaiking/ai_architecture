@@ -1,6 +1,6 @@
 # Raw Sources Index
 
-Danh sách tất cả nguồn raw trong thư mục này.
+Danh sách tất cả nguồn raw trong thư mục này, được phân loại theo title (A-Z).
 
 ## A
 
@@ -20,7 +20,6 @@ Danh sách tất cả nguồn raw trong thư mục này.
 ## L
 
 - [liteparse.md](./liteparse.md) - LiteParse (PDF parsing)
-- [llm_optimization_72_techniques.md](./llm_optimization_72_techniques.md) - 72 Techniques to Optimize LLMs
 
 ## M
 
@@ -38,10 +37,15 @@ Danh sách tất cả nguồn raw trong thư mục này.
 ## S
 
 - [scrapling.md](./scrapling.md) - Scrapling (web scraping)
-- [segmentation_internet_rag.md](./segmentation_internet_rag.pdf) - Segmentation with Internet-Augmented LLMs (PDF)
+- [segmentation_internet_rag.md](./segmentation_internet_rag.md) - Segmentation with Internet-Augmented LLMs
 - [skillclaw.md](./skillclaw.md) - SkillClaw (skill evolution system)
 - [strix.md](./strix.md) - Strix (security testing)
 
 ## T
 
+- [The Anatomy of an Agent Harness](./agent_harness_20260420.md) - The Anatomy of an Agent Harness
 - [turboquant.md](./turboquant.md) - TurboQuant (KV cache quantization)
+
+## 0-9
+
+- [llm_optimization_72_techniques.md](./llm_optimization_72_techniques.md) - 72 Techniques to Optimize LLMs

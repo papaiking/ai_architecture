@@ -178,10 +178,10 @@ Khi người dùng yêu cầu ingest một file hoặc tài liệu, thực hiệ
    - Đảm bảo có link qua lại:
      - Từ source summary → các entity/concept.
      - Từ entity/concept → source (mục “Nguồn”).
-   - Cập nhật danh mục entity, concept vào file index.md của mỗi mục này. Danh mục này được phân loại theo thứ tự A, B, C
+   - Cập nhật danh mục entity, concept vào file index.md của mỗi mục này. Danh mục này được phân loại tiêu đề tài liệu theo thứ tự A, B, C
 
 7. **Cập nhật index.md**
-   - Thêm dòng mới trong section tương ứng (Sources, Entities, Concepts, Topics…).
+   - Thêm dòng mới trong section tương ứng (Sources, Entities, Concepts…) và phân loại theo thứ tự A, B, C, etc của tiêu đề tài liệu
 
 8. **Ghi log**
    - Append entry mới vào `wiki/log.md` theo format ở phần 4.

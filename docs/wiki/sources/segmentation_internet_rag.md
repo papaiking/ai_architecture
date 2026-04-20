@@ -5,7 +5,7 @@ category: "AI_Fundamental"
 tags: ["segmentation", "multimodal", "rag", "reasoning", "computer-vision"]
 created: "2026-04-20"
 updated: "2026-04-20"
-related_topics: ["topics/ai_landscape.md", "topics/building_ai_applications/ai_applications.md"]
+related_topics: ["topics/ai_landscape.md", "topics/ai_applications.md"]
 related_concepts: ["concepts/classification_with_internet_rag.md"]
 ---
 

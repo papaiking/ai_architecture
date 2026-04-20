@@ -1,4 +1,4 @@
-# Docs AI Wiki
+# hearme AI Wiki
 
 A personal wiki for AI/LLM knowledge base built with MkDocs.
 
