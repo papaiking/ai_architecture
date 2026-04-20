@@ -4,6 +4,7 @@ Danh sách tất cả nguồn raw trong thư mục này.
 
 ## A
 
+- [ai_engineering_from_scratch.md](./ai_engineering_from_scratch.md) - AI Engineering from Scratch (260+ lessons)
 - [autoresearchclaw.md](./autoresearchclaw.md) - AutoResearchClaw (research agent)
 - [autoskills.md](./autoskills.md) - Autoskills (CLI tool)
 - [awesome_llm_apps.md](./awesome_llm_apps.md) - Awesome LLM Apps (100+ templates)
