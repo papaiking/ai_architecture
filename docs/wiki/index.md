@@ -5,8 +5,9 @@
 - [AI Applications](topics/ai_applications.md)
 - [AI Agents](topics/ai_agents.md)
   - [Building Agent Apps](topics/building_agent_apps.md)
-- [Personal Agents](topics/personal_agent.md)
 - [Builder Agents](topics/builder_agents.md)
+  - [Orchestrator Agent](topics/orchestrator_agent.md)
+- [Personal Agents](topics/personal_agent.md)
 - [Research Agents](topics/Research_agents.md)
 
 ## Entities
@@ -23,6 +24,9 @@
 
 ## Concepts
 - [AI Agent Skills](concepts/ai_agent_skills.md)
+- [Document Tree Index](concepts/document_tree_index.md) - Build tree from DOM/heading
+- [PageIndex](concepts/page_index.md) - Vectorless reasoning-based document navigation
+- [Proxy-Pointer RAG](concepts/proxy_pointer_rag.md) - Vectorless accuracy at vector cost
 
 ## Sources
 
@@ -41,6 +45,7 @@
 - [Claude-Mem](sources/claude_mem.md) - Persistent memory
 - [Autoskills](sources/autoskills.md) - Auto-install skills
 - [Multica](sources/multica.md) - Agent platform
+- [Archon](sources/archon.md) - Workflow engine for coding agent
 
 ### Personal_agents
 - [QwenPaw](sources/qwenpaw.md) - Personal AI assistant
@@ -50,6 +55,8 @@
 - [AutoResearchClaw](sources/autoresearchclaw.md) - Research pipeline from idea to paper
 
 ### Building_AI_applications
+- [Chunking Document](topics/chunking_document.md)
+  - [Proxy-Pointer RAG](sources/proxy_pointer_rag.md) - Vectorless accuracy at vector RAG scale
 - [Awesome LLM Apps](sources/awesome_llm_apps.md)
 
 ---

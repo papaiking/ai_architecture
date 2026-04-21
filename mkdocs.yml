@@ -19,12 +19,14 @@ nav:
     - Building AI applications:
       - AI Pipeline: wiki/topics/Building_AI_applications.md
       - Data processing: wiki/topics/Data_processing.md
+      - Chunking document: wiki/topics/chunking_document.md
       - AI Applications: wiki/topics/ai_applications.md
     - AI Agents:
       - Overview: wiki/topics/ai_agents.md
       - Building Agent Apps: wiki/topics/building_agent_apps.md
       - Agent Skills: wiki/topics/agent_skills.md
       - AI Coding Agents: wiki/topics/builder_agents.md
+      - Orchestrator Agent: wiki/topics/orchestrator_agent.md
       - Personal Agent: wiki/topics/personal_agent.md
       - Research Agents: wiki/topics/Research_agents.md
 

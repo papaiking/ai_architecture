@@ -4,8 +4,10 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 ## A
 
+- [AionUi](./aionui.md) - AionUi (22.3k stars)
 - [Agentic AI: The Big Picture](./agentic_ai_big_picture.md) - Agentic AI: The Big Picture
 - [AI Engineering from Scratch](./ai_engineering_from_scratch.md) - AI Engineering from Scratch (260+ lessons)
+- [Archon](./archon.md) - Archon (workflow engine for coding agent)
 - [AutoResearchClaw](./autoresearchclaw.md) - AutoResearchClaw (research pipeline)
 - [Autoskills](./autoskills.md) - Autoskills (CLI tool for AI skills)
 - [Awesome LLM Apps](./awesome_llm_apps.md) - Awesome LLM Apps (100+ templates)
@@ -30,6 +32,10 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 ## O
 
 - [OpenDataLoader PDF](./opendataloader_pdf.md) - OpenDataLoader PDF (PDF extraction)
+
+## P
+
+- [Proxy-Pointer RAG](./proxy_pointer_rag.md) - Proxy-Pointer RAG (vectorless accuracy)
 
 ## Q
 

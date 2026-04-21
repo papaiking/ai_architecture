@@ -4,7 +4,9 @@ Danh sách tất cả nguồn raw trong thư mục này, được phân loại t
 
 ## A
 
+- [aionui.md](./aionui.md) - AionUi (22.3k stars)
 - [ai_engineering_from_scratch.md](./ai_engineering_from_scratch.md) - AI Engineering from Scratch (260+ lessons)
+- [archon.md](./archon.md) - Archon (workflow engine)
 - [autoresearchclaw.md](./autoresearchclaw.md) - AutoResearchClaw (research agent)
 - [autoskills.md](./autoskills.md) - Autoskills (CLI tool)
 - [awesome_llm_apps.md](./awesome_llm_apps.md) - Awesome LLM Apps (100+ templates)
@@ -29,6 +31,10 @@ Danh sách tất cả nguồn raw trong thư mục này, được phân loại t
 ## O
 
 - [opendataloader_pdf.md](./opendataloader_pdf.md) - OpenDataLoader PDF (PDF extraction)
+
+## P
+
+- [proxy_pointer_rag.md](./proxy_pointer_rag.md) - Proxy-Pointer RAG (vectorless accuracy)
 
 ## Q
 

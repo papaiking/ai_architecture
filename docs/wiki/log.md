@@ -1,5 +1,23 @@
 # Log
 
+## [2026-04-21] INGEST | Archon - Workflow Engine for Coding Agent
+
+- Files: raw/archon.md, sources/archon.md, topics/orchestrator_agent.md
+- Sources: https://github.com/coleam00/archon
+- Notes: Ingest Archon - workflow engine cho coding agent với MCP server, YAML-defined workflow, knowledge base RAG. Tạo topic Orchestrator Agent.
+
+## [2026-04-20] INGEST | Proxy-Pointer RAG
+
+- Files: raw/proxy_pointer_rag.md, sources/proxy_pointer_rag.md
+- Sources: raw/Proxy-Pointer RAG_ Achieving Vectorless Accuracy at Vector RAG Scale and Cost.pdf
+- Notes: Ingest Proxy-Pointer RAG paper - phương pháp đạt vectorless accuracy với vector RAG scale và cost.
+
+## [2026-04-20] INGEST | AionUi - Personal Agent
+
+- Files: raw/aionui.md, sources/aionui.md
+- Sources: https://github.com/iOfficeAI/AionUi
+- Notes: Ingest AionUi - free, open-source 24/7 Cowork app (22.3k stars), added to Personal Agents topic.
+
 ## [2026-04-20] INGEST | The Anatomy of an Agent Harness
 
 - Files: raw/agent_harness_20260420.md, wiki/sources/agent_harness.md, wiki/topics/ai_agents.md, wiki/topics/building_agent_apps.md
