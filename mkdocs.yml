@@ -13,6 +13,9 @@ nav:
   - Topics:
     - AI Fundamental: 
       - AI lanscape: wiki/topics/ai_landscape.md
+      - Foundation Models: 
+        - Overview: wiki/topics/foundation_models.md
+        - Vision Models: wiki/topics/vision_models.md
       - Generative AI: wiki/topics/llm.md
       - Self-Learning: wiki/topics/self_learning.md
 

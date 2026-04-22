@@ -114,8 +114,9 @@ AutoResearchClaw is OpenClaw-compatible. Share the repo URL with OpenClaw and sa
 
 ---
 
-## Nguồn
+## Source
 
+- [Raw Source](../../raw/autoresearchclaw.md)
 - [GitHub Repository](https://github.com/aiming-lab/AutoResearchClaw)
 
 ## Liên kết liên quan

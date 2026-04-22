@@ -54,4 +54,5 @@ Thay vì embedding, sử dụng **pointer-based proxy**:
 
 ## Source
 
+- [Raw Source](../../raw/proxy_pointer_rag.md)
 - [PDF](../../raw/Proxy-Pointer%20RAG_%20Achieving%20Vectorless%20Accuracy%20at%20Vector%20RAG%20Scale%20and%20Cost.pdf)

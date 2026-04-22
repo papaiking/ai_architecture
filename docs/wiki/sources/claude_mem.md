@@ -123,9 +123,10 @@ Settings in `~/.claude-mem/settings.json`:
 
 ---
 
-## Nguồn
+## Source
 
-- raw/claude_mem.md
+- [Raw Source](../../raw/claude_mem.md)
+- [GitHub](https://github.com/thedotmack/claude-mem)
 
 ## Liên kết liên quan
 

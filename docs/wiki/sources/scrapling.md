@@ -96,10 +96,11 @@ scrapling extract stealthy-fetch 'https://example.com' output.html --solve-cloud
 
 ---
 
-## Nguồn
+## Source
 
-- raw/scrapling.md
+- [Raw Source](../../raw/scrapling.md)
+- [GitHub](https://github.com/simonw/scrapling)
 
-## Liên kết liên quan
+## Related Topics
 
 - [Building AI Applications](../topics/Building_AI_apps.md)

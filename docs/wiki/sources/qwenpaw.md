@@ -79,11 +79,15 @@ qwenpaw agents create    # CLI agent creation
 
 ---
 
-## Nguồn
+## Source
 
-- raw/qwenpaw.md
+- [Raw Source](../../raw/qwenpaw.md)
+- [GitHub](https://github.com/modelscope/agentscope)
 
-## Liên kết liên quan
+## Related Topics
 
 - [Personal Agents](../topics/personal_agent.md)
+
+## Related Entities
+
 - [AgentScope Team](../entities/agentscope_team.md)

@@ -16,6 +16,10 @@ Topic covering the engineering and architecture of building AI agent application
 
 - [The Anatomy of an Agent Harness](../sources/agent_harness.md) - Deep dive into what Anthropic, OpenAI, Perplexity and LangChain are actually building
 
+## Agent Frameworks
+
+- [Deep Agents](../sources/deep_agents.md) - Agent framework (LangChain + LangGraph)
+
 ## Related Topics
 
 - [Builder Agents](./builder_agents.md) - AI coding assistants

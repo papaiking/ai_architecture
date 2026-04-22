@@ -1,5 +1,23 @@
 # Log
 
+## [2026-04-21] INGEST | dots.ocr - Document Layout Parsing
+
+- Files: raw/dots_ocr.md, sources/dots_ocr.md, topics/vision_models.md
+- Sources: https://github.com/rednote-hilab/dots.ocr
+- Notes: Ingest dots.ocr - multilingual document layout parsing VLM (8.5k stars), added to Vision Models topic under Foundation Models.
+
+## [2026-04-21] INGEST | Deep Agents - Agent Framework
+
+- Files: raw/deep_agents.md, sources/deep_agents.md
+- Sources: https://github.com/langchain-ai/deepagents
+- Notes: Ingest Deep Agents - Python library for building AI agents (LangChain + LangGraph), added to Builder Agents topic.
+
+## [2026-04-21] INGEST | Feynman - AI Research Agent
+
+- Files: raw/feynman.md, sources/feynman.md
+- Sources: https://github.com/getcompanion-ai/feynman
+- Notes: Ingest Feynman - open source AI research agent (5.7k stars), added to Research Agents topic.
+
 ## [2026-04-21] INGEST | Archon - Workflow Engine for Coding Agent
 
 - Files: raw/archon.md, sources/archon.md, topics/orchestrator_agent.md

@@ -76,11 +76,11 @@ Every lesson produces a reusable artifact:
 
 ---
 
-## Nguồn
+## Source
 
+- [Raw Source](../../raw/ai_engineering_from_scratch.md)
 - [GitHub Repository](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [Website](https://aiengineeringfromscratch.com)
-- [../../raw/ai_engineering_from_scratch.md](../../raw/ai_engineering_from_scratch.md)
 
 ## Liên kết liên quan
 

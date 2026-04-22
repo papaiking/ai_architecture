@@ -1,17 +1,17 @@
 ---
-title: "Builder Agents"
+title: "AI Coding Agents"
 type: "topic"
-category: "Builder_agents"
+category: "AI_Coding_Agents"
 tags: ["ai", "coding", "developer-tools", "agent"]
 created: "2026-04-18"
 updated: "2026-04-19"
 ---
 
-# Builder Agents
+# AI Coding Agents
 
 Các tác nhân AI hỗ trợ lập trình viên trong phát triển phần mềm - viết code, debug, refactor, và xử lý documents/security testing.
 
-## Builder agents
+## AI Coding Agents
 
 - [Multica](../sources/multica.md) - Agent platform for team management
 - [Strix](../sources/strix.md) - Security testing & vulnerability scanning

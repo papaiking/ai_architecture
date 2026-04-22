@@ -12,6 +12,10 @@ sources: ["sources/awesome_llm_apps.md"]
 
 This topic covers various applications of Artificial Intelligence, focusing on how AI is used to build practical solutions and tools.
 
+## Enterprise AI Platforms
+
+- [Onyx](../sources/onyx.md) - Open source AI platform with RAG, Deep Research, Custom Agents, and 40+ connectors
+
 ## AI Classification
 
 - [Segmentation with Internet-Augmented Multimodal LLMs](../sources/segmentation_internet_rag.md) - Using RAG to solve knowledge cutoff in segmentation models

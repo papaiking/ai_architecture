@@ -107,8 +107,9 @@ Remotion, ElevenLabs
 
 ---
 
-## Nguồn
+## Source
 
+- [Raw Source](../../raw/autoskills.md)
 - [GitHub Repository](https://github.com/midudev/autoskills)
 
 ## Liên kết liên quan

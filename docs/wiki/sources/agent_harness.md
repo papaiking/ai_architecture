@@ -74,4 +74,5 @@ The **agent** is the emergent behavior (goal-directed, tool-using, self-correcti
 
 ## Source
 
+- [Raw Source](../../raw/agent_harness_20260420.md)
 - [Article](https://www.dailydoseofds.com/p/the-anatomy-of-an-agent-harness/)

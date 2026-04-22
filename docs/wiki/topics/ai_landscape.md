@@ -72,6 +72,10 @@ We’re moving from:
 ✅ "Delegate work to AI systems"
 ```
 
+## Foundation Models
+
+- [Foundation Models](./foundation_models.md) - Overview of foundation models
+
 ### Key Takeaway
 
 If you understand this stack, you don't just use AI... You start designing AI-powered workflows, automations, and businesses. And that's where the real leverage is in 2026.

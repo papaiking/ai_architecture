@@ -67,11 +67,15 @@ opendataloader_pdf.convert(
 
 ---
 
-## Nguồn
+## Source
 
-- raw/opendataloader_pdf.md
+- [Raw Source](../../raw/opendataloader_pdf.md)
+- [GitHub](https://github.com/OpenDataLoader/PDF)
 
-## Liên kết liên quan
+## Related Topics
 
 - [Building AI Applications](../topics/Building_AI_apps.md)
+
+## Related Entities
+
 - [OpenDataLoader Project](../entities/opendataloader_project.md)

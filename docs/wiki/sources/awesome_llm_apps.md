@@ -73,11 +73,11 @@ streamlit run travel_agent.py
 
 ---
 
-## Nguồn
+## Source
 
+- [Raw Source](../../raw/awesome_llm_apps.md)
 - [GitHub Repository](https://github.com/Shubhamsaboo/awesome-llm-apps)
 - [Unwind AI Tutorials](https://www.theunwindai.com)
-- [../../raw/awesome_llm_apps.md](../../raw/awesome_llm_apps.md)
 
 ## Liên kết liên quan
 

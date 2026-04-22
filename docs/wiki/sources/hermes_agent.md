@@ -121,11 +121,12 @@ Hermes creates skills autonomously after complex tasks. Skills:
 
 ---
 
-## Nguồn
+## Source
 
-- raw/hermes_agent.md
+- [Raw Source](../../raw/hermes_agent.md)
+- [GitHub](https://github.com/nousresearch/hermes-agent)
 
-## Liên kết liên quan
+## Related Topics
 
 - [Personal Agents](../topics/personal_agent.md)
 - [Nous Research](../entities/nous_research.md)

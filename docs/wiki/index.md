@@ -5,7 +5,7 @@
 - [AI Applications](topics/ai_applications.md)
 - [AI Agents](topics/ai_agents.md)
   - [Building Agent Apps](topics/building_agent_apps.md)
-- [Builder Agents](topics/builder_agents.md)
+- [AI Coding Agents](topics/builder_agents.md)
   - [Orchestrator Agent](topics/orchestrator_agent.md)
 - [Personal Agents](topics/personal_agent.md)
 - [Research Agents](topics/Research_agents.md)
@@ -35,6 +35,7 @@
 - [MedGemma](sources/medgemma.md) - Medical AI LLM
 - [72 Techniques to Optimize LLMs](sources/llm_optimization_72_techniques.md) - Production optimization
 - [Agentic AI: The Big Picture](sources/agentic_ai_big_picture.md) - AI evolution from models to agents
+- [LFM2.5-Audio-1.5B](sources/lfm2_5_audio.md) - Audio foundation model
 
 ### Data_processing
 - [OpenDataLoader PDF](sources/opendataloader_pdf.md) - PDF data extraction
@@ -46,6 +47,7 @@
 - [Autoskills](sources/autoskills.md) - Auto-install skills
 - [Multica](sources/multica.md) - Agent platform
 - [Archon](sources/archon.md) - Workflow engine for coding agent
+- [Deep Agents](sources/deep_agents.md) - Agent framework (LangChain + LangGraph)
 
 ### Personal_agents
 - [QwenPaw](sources/qwenpaw.md) - Personal AI assistant
@@ -53,6 +55,7 @@
 
 ### Research_agents
 - [AutoResearchClaw](sources/autoresearchclaw.md) - Research pipeline from idea to paper
+- [Feynman](sources/feynman.md) - AI research agent (5.7k stars)
 
 ### Building_AI_applications
 - [Chunking Document](topics/chunking_document.md)

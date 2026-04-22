@@ -7,6 +7,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 - [AionUi](./aionui.md) - AionUi (22.3k stars)
 - [Agentic AI: The Big Picture](./agentic_ai_big_picture.md) - Agentic AI: The Big Picture
 - [AI Engineering from Scratch](./ai_engineering_from_scratch.md) - AI Engineering from Scratch (260+ lessons)
+- [AnythingLLM](./anything_llm.md) - AnythingLLM (58.7k stars)
 - [Archon](./archon.md) - Archon (workflow engine for coding agent)
 - [AutoResearchClaw](./autoresearchclaw.md) - AutoResearchClaw (research pipeline)
 - [Autoskills](./autoskills.md) - Autoskills (CLI tool for AI skills)
@@ -16,13 +17,19 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 - [Claude-Mem](./claude_mem.md) - Claude-Mem (persistent memory)
 
+## D
+
+- [Deep Agents](./deep_agents.md) - Deep Agents (agent framework)
+- [Dots.ocr](./dots_ocr.md) - dots.ocr (document layout parsing)
+- [Feynman](./feynman.md) - Feynman (AI research agent)
+
 ## H
 
 - [Hermes Agent](./hermes_agent.md) - Hermes Agent (personal AI)
 
 ## L
 
-- [LiteParse](./liteparse.md) - LiteParse (PDF parsing)
+- [LFM2.5-Audio-1.5B](./lfm2_5_audio.md) - LFM2.5-Audio-1.5B (audio foundation model)
 
 ## M
 
@@ -31,6 +38,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 ## O
 
+- [Onyx](./onyx.md) - Onyx (open source AI platform, 27.4k stars)
 - [OpenDataLoader PDF](./opendataloader_pdf.md) - OpenDataLoader PDF (PDF extraction)
 
 ## P
