@@ -15,6 +15,7 @@ This topic covers various applications of Artificial Intelligence, focusing on h
 ## Enterprise AI Platforms
 
 - [Onyx](../sources/onyx.md) - Open source AI platform with RAG, Deep Research, Custom Agents, and 40+ connectors
+- [Open CoDesign](../sources/open_codesign.md) - Open source AI design tool, local Claude Design alternative
 
 ## AI Classification
 

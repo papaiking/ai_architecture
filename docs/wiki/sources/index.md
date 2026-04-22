@@ -39,6 +39,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 ## O
 
 - [Onyx](./onyx.md) - Onyx (open source AI platform, 27.4k stars)
+- [Open CoDesign](./open_codesign.md) - Open CoDesign (AI design tool)
 - [OpenDataLoader PDF](./opendataloader_pdf.md) - OpenDataLoader PDF (PDF extraction)
 
 ## P
