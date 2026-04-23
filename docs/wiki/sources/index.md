@@ -16,6 +16,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 ## C
 
 - [Claude-Mem](./claude_mem.md) - Claude-Mem (persistent memory)
+- [Crucix](./crucix.md) - Crucix (personal intelligence agent)
 
 ## D
 

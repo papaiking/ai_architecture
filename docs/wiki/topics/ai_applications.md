@@ -17,6 +17,10 @@ This topic covers various applications of Artificial Intelligence, focusing on h
 - [Onyx](../sources/onyx.md) - Open source AI platform with RAG, Deep Research, Custom Agents, and 40+ connectors
 - [Open CoDesign](../sources/open_codesign.md) - Open source AI design tool, local Claude Design alternative
 
+## Monitoring Agents
+
+- [Monitoring Agents](./monitoring_agents.md) - Real-time intelligence and OSINT-style monitoring agents
+
 ## AI Classification
 
 - [Segmentation with Internet-Augmented Multimodal LLMs](../sources/segmentation_internet_rag.md) - Using RAG to solve knowledge cutoff in segmentation models

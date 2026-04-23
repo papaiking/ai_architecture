@@ -23,7 +23,9 @@ nav:
       - AI Pipeline: wiki/topics/Building_AI_applications.md
       - Data processing: wiki/topics/Data_processing.md
       - Chunking document: wiki/topics/chunking_document.md
-      - AI Applications: wiki/topics/ai_applications.md
+      - AI Applications: 
+        - ai_applications: wiki/topics/ai_applications.md
+        - monitoring_agents: wiki/topics/monitoring_agents.md
     - AI Agents:
       - Overview: wiki/topics/ai_agents.md
       - Building Agent Apps: wiki/topics/building_agent_apps.md
