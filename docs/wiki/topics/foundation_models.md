@@ -11,6 +11,10 @@ updated: "2026-04-21"
 
 Overview về các foundation models trong AI.
 
+## Text Models
+
+- [LLM Architecture Gallery](../sources/llm_architecture_gallery.md) - 70+ LLM architecture factsheets
+
 ## Audio Models
 
 - [LFM2.5-Audio-1.5B](../sources/lfm2_5_audio.md) - End-to-end audio foundation model

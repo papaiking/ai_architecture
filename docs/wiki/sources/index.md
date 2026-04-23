@@ -30,6 +30,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 ## L
 
 - [LFM2.5-Audio-1.5B](./lfm2_5_audio.md) - LFM2.5-Audio-1.5B (audio foundation model)
+- [LLM Architecture Gallery](./llm_architecture_gallery.md) - LLM Architecture Gallery (70+ models)
 
 ## M
 

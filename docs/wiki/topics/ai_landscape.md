@@ -75,6 +75,7 @@ We’re moving from:
 ## Foundation Models
 
 - [Foundation Models](./foundation_models.md) - Overview of foundation models
+- [LLM Architecture Gallery](../sources/llm_architecture_gallery.md) - 70+ LLM architecture factsheets
 
 ### Key Takeaway
 
