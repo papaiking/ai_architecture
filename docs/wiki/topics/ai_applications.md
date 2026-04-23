@@ -14,6 +14,7 @@ This topic covers various applications of Artificial Intelligence, focusing on h
 
 ## Enterprise AI Platforms
 
+- [Crucix](../sources/crucix.md) - [Demo](https://www.crucix.live/) Personal intelligence agent with 26+ data sources, OSINT-style monitoring
 - [Onyx](../sources/onyx.md) - Open source AI platform with RAG, Deep Research, Custom Agents, and 40+ connectors
 - [Open CoDesign](../sources/open_codesign.md) - Open source AI design tool, local Claude Design alternative
 
