@@ -6,6 +6,7 @@ Danh sách tất cả nguồn raw trong thư mục này, được phân loại t
 
 - [aionui.md](./aionui.md) - AionUi (22.3k stars)
 - [ai_engineering_from_scratch.md](./ai_engineering_from_scratch.md) - AI Engineering from Scratch (260+ lessons)
+- [anything_llm.md](./anything_llm.md) - AnythingLLM (58.7k stars)
 - [archon.md](./archon.md) - Archon (workflow engine)
 - [autoresearchclaw.md](./autoresearchclaw.md) - AutoResearchClaw (research agent)
 - [autoskills.md](./autoskills.md) - Autoskills (CLI tool)
@@ -15,12 +16,22 @@ Danh sách tất cả nguồn raw trong thư mục này, được phân loại t
 
 - [claude_mem.md](./claude_mem.md) - Claude-Mem (persistent memory)
 
+## D
+
+- [deep_agents.md](./deep_agents.md) - Deep Agents (agent framework)
+- [dots_ocr.md](./dots_ocr.md) - dots.ocr (document layout parsing)
+
+## F
+
+- [feynman.md](./feynman.md) - Feynman (AI research agent)
+
 ## H
 
 - [hermes_agent.md](./hermes_agent.md) - Hermes Agent (personal AI)
 
 ## L
 
+- [lfm2_5_audio.md](./lfm2_5_audio.md) - LFM2.5-Audio-1.5B (audio foundation model)
 - [liteparse.md](./liteparse.md) - LiteParse (PDF parsing)
 
 ## M
@@ -49,7 +60,7 @@ Danh sách tất cả nguồn raw trong thư mục này, được phân loại t
 
 ## T
 
-- [The Anatomy of an Agent Harness](./agent_harness_20260420.md) - The Anatomy of an Agent Harness
+- [agent_harness_20260420.md](./agent_harness_20260420.md) - The Anatomy of an Agent Harness
 - [turboquant.md](./turboquant.md) - TurboQuant (KV cache quantization)
 
 ## 0-9

@@ -145,8 +145,9 @@ Khi người dùng yêu cầu ingest một file hoặc tài liệu, thực hiệ
 
 1. **Cập nhật nội dung vào thư mục gốc**
    - Nếu tài liệu đã nằm trong folder: `docs/raw/`, hãy bỏ qua bước này
-   - Chuyển toàn bộ nội dung yêu cầu thành file formart markdown: giữ nguyên nội dung, kể cả ảnh và media. Nếu có ảnh, hãy downloaf về thư mục media trong  project này
+   - Chuyển toàn bộ nội dung yêu cầu thành file formart markdown: giữ nguyên nội dung, kể cả ảnh và media. Nếu có ảnh, hãy download về thư mục media trong  project này rồi tạo liên kết đến file nội dung gốc
    - Ghi nội dung ra file *.md nằm trong thư mục: `docs/raw/` với tên file tài liệu dạng: doc-title_yyyyMMdd.md
+   - **Ghi nhớ:** Sao chép toàn bộ nội dung yêu cầu vào file nội dung gốc .md là bắt buộc. Nếu nội dung nguồn quá dài, hãy chép từng đoạn nhỏ rồi ghi đến file đích.
 
 2. **Đọc và hiểu**
    - Đọc nội dung file nguồn (có thể chia nhiều lượt nếu file dài).
