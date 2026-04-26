@@ -38,6 +38,10 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 - [MedGemma](./medgemma.md) - MedGemma (medical AI LLM)
 - [Multica](./multica.md) - Multica (agent platform)
 
+## N
+
+- [Free NVIDIA APIs](./nvidia_free_apis.md) - Free hosted APIs for 70+ open source models
+
 ## O
 
 - [Onyx](./onyx.md) - Onyx (open source AI platform, 27.4k stars)

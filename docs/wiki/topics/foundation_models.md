@@ -14,6 +14,7 @@ Overview về các foundation models trong AI.
 ## Text Models
 
 - [LLM Architecture Gallery](../sources/llm_architecture_gallery.md) - 70+ LLM architecture factsheets
+- [Free NVIDIA APIs](../sources/nvidia_free_apis.md) - Free hosted APIs for 70+ open source models
 
 ## Audio Models
 
