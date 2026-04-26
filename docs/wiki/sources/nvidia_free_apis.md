@@ -11,8 +11,10 @@ related_topics: ["topics/ai_landscape.md", "topics/foundation_models.md"]
 
 # Free NVIDIA APIs for Open Source Models
 
-**Provider**: NVIDIA
+**Provider**: NVIDIA  
 **Access**: https://build.nvidia.com/models
+
+![NVIDIA Free APIs](../media/nvidia_free_apis.png)
 
 ## Overview
 
@@ -30,6 +32,7 @@ NVIDIA is providing free access to 70+ AI models via hosted APIs. You get access
 ## Integration
 
 Works with tools like:
+
 - Cursor
 - Zed
 - OpenClaw
