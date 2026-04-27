@@ -11,6 +11,9 @@ updated: "2026-04-19"
 
 Các tác nhân AI hỗ trợ lập trình viên trong phát triển phần mềm - viết code, debug, refactor, và xử lý documents/security testing.
 
+## Design UI Agents
+- [Open CoDesign](../sources/open_codesign.md) - Open source AI design tool, local Claude Design alternative
+
 ## AI Coding Agents
 
 - [Multica](../sources/multica.md) - Agent platform for team management
