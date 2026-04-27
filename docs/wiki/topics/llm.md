@@ -38,3 +38,7 @@ Kiến thức nền tảng về AI, Generative AI, LLM models, foundation models
 
 - [72 Techniques to Optimize LLMs](../sources/llm_optimization_72_techniques.md) - Production optimization techniques map
 - [TurboQuant - KV Cache Quantization](../sources/turboquant.md) - 3-bit KV cache with near 0 accuracy loss
+
+## LLM Inference
+
+- [oLLM](./llm_inference.md) - Large-context LLM inference on consumer GPU

@@ -16,7 +16,9 @@ nav:
       - Foundation Models: 
         - Overview: wiki/topics/foundation_models.md
         - Vision Models: wiki/topics/vision_models.md
-      - Generative AI: wiki/topics/llm.md
+      - Generative AI: 
+        - Overview: wiki/topics/llm.md
+        - LLM Inference: wiki/topics/llm_inference.md
       - Self-Learning: wiki/topics/self_learning.md
 
     - Building AI applications:
