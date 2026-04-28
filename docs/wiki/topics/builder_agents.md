@@ -18,6 +18,7 @@ Các tác nhân AI hỗ trợ lập trình viên trong phát triển phần mề
 
 - [Aider](../sources/aider.md) - AI pair programming in terminal (43k stars)
 - [Cline](../sources/cline.md) - Autonomous coding agent in VS Code (60k stars)
+- [code-review-graph](../sources/code_review_graph.md) - Knowledge graph for Claude Code (13k stars)
 - [Multica](../sources/multica.md) - Agent platform for team management
 - [Strix](../sources/strix.md) - Security testing & vulnerability scanning
 

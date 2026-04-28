@@ -19,6 +19,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 - [Claude-Mem](./claude_mem.md) - Claude-Mem (persistent memory)
 - [Cline](./cline.md) - Cline (autonomous coding agent, 60k stars)
+- [code-review-graph](./code_review_graph.md) - code-review-graph (knowledge graph, 13k stars)
 - [Crucix](./crucix.md) - Crucix (personal intelligence agent)
 
 ## D
