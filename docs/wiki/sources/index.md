@@ -4,6 +4,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 ## A
 
+- [Aider](./aider.md) - Aider (AI pair programming, 43k stars)
 - [AionUi](./aionui.md) - AionUi (22.3k stars)
 - [Agentic AI: The Big Picture](./agentic_ai_big_picture.md) - Agentic AI: The Big Picture
 - [AI Engineering from Scratch](./ai_engineering_from_scratch.md) - AI Engineering from Scratch (260+ lessons)
