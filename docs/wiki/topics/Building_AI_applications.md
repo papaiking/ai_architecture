@@ -93,10 +93,11 @@ A **pipeline** is not complete without continuous monitoring and improvement.
 ### **Operational monitoring**  
   - Track infrastructure metrics (CPU, memory, GPU usage), request metrics (QPS, latency, error codes), and cost.
 
-### **ML‑specific monitoring**  
+### **ML‑specific monitoring**
   - Watch input distributions and output quality; detect data drift and concept drift; track live performance proxies or periodic human evaluation.
+  - [Langfuse](../sources/langfuse.md) - Open source LLM observability and tracing
 
-### **Feedback loop and retraining**  
+### **Feedback loop and retraining**
   - Use user interactions, corrections, or explicit ratings to build new labeled data; feed this back into your data and model pipelines for regular retraining.
 
 This is where “MLOps” practices come in: versioning data/models, automating retraining, and standardizing how pipelines are defined and executed, so AI applications remain accurate, scalable, and maintainable over time.
