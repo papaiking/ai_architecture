@@ -6,6 +6,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 - [Aider](./aider.md) - Aider (AI pair programming, 43k stars)
 - [AionUi](./aionui.md) - AionUi (22.3k stars)
+- [AnythingLLM](./anything_llm.md) - AnythingLLM (58.7k stars)
 - [Agentic AI: The Big Picture](./agentic_ai_big_picture.md) - Agentic AI: The Big Picture
 - [AI Engineering from Scratch](./ai_engineering_from_scratch.md) - AI Engineering from Scratch (260+ lessons)
 - [AnythingLLM](./anything_llm.md) - AnythingLLM (58.7k stars)
@@ -17,6 +18,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 ## C
 
 - [Claude-Mem](./claude_mem.md) - Claude-Mem (persistent memory)
+- [Cline](./cline.md) - Cline (autonomous coding agent, 60k stars)
 - [Crucix](./crucix.md) - Crucix (personal intelligence agent)
 
 ## D
