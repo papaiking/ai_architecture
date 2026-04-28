@@ -14,6 +14,7 @@ Tools and platforms for monitoring, tracing, and evaluating LLM applications.
 ## Platforms
 
 - [Langfuse](../sources/langfuse.md) - Open source LLM engineering platform with observability, metrics, evals, prompt management
+- [OpenTelemetry](../sources/opentelemetry.md) - Industry-standard observability framework for traces, metrics, logs
 
 ## Related Topics
 
