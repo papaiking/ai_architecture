@@ -95,7 +95,7 @@ A **pipeline** is not complete without continuous monitoring and improvement.
 
 ### **ML‑specific monitoring**
   - Watch input distributions and output quality; detect data drift and concept drift; track live performance proxies or periodic human evaluation.
-  - [Langfuse](../sources/langfuse.md) - Open source LLM observability and tracing
+  - [AI Observability](./ai_observability.md) - LLM observability platforms
 
 ### **Feedback loop and retraining**
   - Use user interactions, corrections, or explicit ratings to build new labeled data; feed this back into your data and model pipelines for regular retraining.

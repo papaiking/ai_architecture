@@ -22,7 +22,9 @@ nav:
       - Self-Learning: wiki/topics/self_learning.md
 
     - Building AI applications:
-      - AI Pipeline: wiki/topics/Building_AI_applications.md
+      - AI Pipeline: 
+        - Overview: wiki/topics/Building_AI_applications.md
+        - AI Observability: wiki/topics/ai_observability.md
       - Data processing: wiki/topics/Data_processing.md
       - Chunking document: wiki/topics/chunking_document.md
       - AI Applications: wiki/topics/ai_applications.md
