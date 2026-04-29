@@ -9,11 +9,12 @@ updated: "2026-04-22"
 
 # LLM Inference
 
-Running LLMs locally or on consumer hardware with efficient inference.
+Running LLMs locally on self-hosted server for LLM inference.
 
 ## Libraries & Tools
 
-- [oLLM](../sources/ollm.md) - Large-context LLM inference on consumer GPU (8GB VRAM)
+- [oLLM](./ollm.md) - Large-context LLM inference on consumer GPU (8GB VRAM)
+- [Poolside Laguna](./poolside_laguna.md) - Open source coding model (33B, Apache 2.0)
 
 ## Related Topics
 

@@ -58,6 +58,7 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 ## P
 
+- [Poolside Laguna](./poolside_laguna.md) - Poolside Laguna (open source coding model)
 - [Proxy-Pointer RAG](./proxy_pointer_rag.md) - Proxy-Pointer RAG (vectorless accuracy)
 
 ## Q
