@@ -33,12 +33,9 @@ Kiến thức nền tảng về AI, Generative AI, LLM models, foundation models
 ## LLM Models
 
 - [MedGemma](../sources/medgemma.md) - Medical AI (Gemma 3 variants)
+- [Poolside Laguna](../sources/poolside_laguna.md) - Open source coding model (Apache 2.0)
 
 ## Running LLM Model
 
 - [72 Techniques to Optimize LLMs](../sources/llm_optimization_72_techniques.md) - Production optimization techniques map
 - [TurboQuant - KV Cache Quantization](../sources/turboquant.md) - 3-bit KV cache with near 0 accuracy loss
-
-## LLM Inference
-
-- [oLLM](./llm_inference.md) - Large-context LLM inference on consumer GPU

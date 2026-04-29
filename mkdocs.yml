@@ -18,13 +18,11 @@ nav:
         - Vision Models: wiki/topics/vision_models.md
       - Generative AI: 
         - Overview: wiki/topics/llm.md
-        - LLM Inference: wiki/topics/llm_inference.md
       - Self-Learning: wiki/topics/self_learning.md
 
     - Building AI applications:
-      - AI Pipeline: 
-        - Overview: wiki/topics/Building_AI_applications.md
-        - AI Observability: wiki/topics/ai_observability.md
+      - AI Pipeline: wiki/topics/Building_AI_applications.md
+      - AI Observability: wiki/topics/ai_observability.md
       - Data processing: wiki/topics/Data_processing.md
       - Chunking document: wiki/topics/chunking_document.md
       - AI Applications: wiki/topics/ai_applications.md

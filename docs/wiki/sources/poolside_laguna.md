@@ -55,7 +55,6 @@ American AI startup Poolside launched free, high-performing open model Laguna XS
 ## Related Topics
 
 - [Generative AI and LLM](../topics/llm.md)
-- [LLM Inference](../topics/llm_inference.md)
 
 ---
 

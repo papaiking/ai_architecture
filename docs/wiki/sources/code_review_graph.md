@@ -11,9 +11,9 @@ related_topics: ["topics/builder_agents.md"]
 
 # code-review-graph
 
-**Organization**: tirth8205
-**Stars**: 13,307
-**Website**: https://code-review-graph.com
+- **Organization**: tirth8205
+- **Stars**: 13,307
+- **Website**: https://code-review-graph.com
 
 ## Overview
 
