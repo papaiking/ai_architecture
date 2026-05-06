@@ -67,7 +67,18 @@ The model sub‑pipeline is about experimentation and reproducibility.
   - Fetch training data, preprocess into tensors, train the model, log metrics, and store the resulting artifact (weights, config).
 
 ### **Validation and testing**  
-  - Use validation to tune, a held‑out test to estimate generalization; sometimes add “shadow deployment” or A/B tests to verify performance in production scenarios.
+  - Use validation to tune, a held‑out test to estimate generalization; sometimes add "shadow deployment" or A/B tests to verify performance in production scenarios.
+
+### **LLM Fine-Tuning Tools**
+
+For LLM-specific fine-tuning, several open-source libraries are essential:
+
+- [Unsloth](../sources/llm_finetune_libraries.md) — Fastest local fine-tuning, low VRAM optimized
+- [Axolotl](../sources/llm_finetune_libraries.md) — Flexible YAML configs, LoRA/QLoRA/multi-GPU
+- [TRL](../sources/llm_finetune_libraries.md) — RLHF, DPO, PPO for LLM alignment
+- [DeepSpeed](../sources/llm_finetune_libraries.md) — Distributed training, ZeRO optimizer
+- [LLaMA-Factory](../sources/llm_finetune_libraries.md) — All-in-one UI + CLI, 100+ models
+- [PEFT](../sources/llm_finetune_libraries.md) — Parameter-efficient fine-tuning (LoRA, adapters)
 
 Think of this as a cycle you repeat many times: new idea → experiment → evaluate → either discard or promote to deployment.
 

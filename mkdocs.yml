@@ -15,9 +15,9 @@ nav:
       - AI lanscape: wiki/topics/ai_landscape.md
       - Foundation Models: 
         - Overview: wiki/topics/foundation_models.md
+        - Audio Models: wiki/topics/audio_models.md
         - Vision Models: wiki/topics/vision_models.md
-      - Generative AI: 
-        - Overview: wiki/topics/llm.md
+      - Generative AI: wiki/topics/llm.md
       - Self-Learning: wiki/topics/self_learning.md
 
     - Building AI applications:

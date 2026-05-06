@@ -50,7 +50,7 @@ pip install kvikio-cu12  # speeds up inference
 ## Related Topics
 
 - [Generative AI and LLM](../topics/llm.md)
-- [LLM Inference](../topics/llm_inference.md)
+- [Building AI Applications](../topics/Building_AI_applications.md)
 
 ---
 

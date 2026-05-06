@@ -187,7 +187,10 @@ Khi người dùng yêu cầu ingest một file hoặc tài liệu, thực hiệ
 8. **Ghi log**
    - Append entry mới vào `wiki/log.md` theo format ở phần 4.
 
-9. **Yêu cầu**
+9. **Check Error**
+  - The final step is running: mkdocs build, read logs, findout errors if they exist, then fix them.
+
+10. **Yêu cầu**
    - Tuyệt đối không sửa, xóa các nội dung cũ trong quy trình này
 
 ---

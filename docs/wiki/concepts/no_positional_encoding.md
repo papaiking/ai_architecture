@@ -38,8 +38,8 @@ NoPE is typically used selectively:
 
 ## Related Concepts
 
-- [RoPE](./rope.md) - Rotary Position Embedding (common alternative)
-- [MLA](./multi_latent_attention.md) - Often combined
+- [Multi-Latent Attention](./multi_latent_attention.md) - Often combined with NoPE
+- [Grouped Query Attention](./grouped_query_attention.md) - Alternative attention mechanism
 
 ---
 

@@ -1,5 +1,47 @@
 # Log
 
+## [2026-05-05] INGEST | Obsidian - Markdown Second Brain
+
+- Files: raw/obsidian_20260505.md, sources/obsidian.md, topics/personal_agent.md, wiki/index.md
+- Sources: https://obsidian.md/, user-provided content
+- Notes: Ingest Obsidian - Markdown-based note-taking and "second brain" app. Features: backlinks, Graph View, vaults, local-first, offline, plugin ecosystem, LaTeX/code support. Added to Personal Agents topic under Personal Knowledge Management section. Downloaded images to wiki/media/.
+
+## [2026-05-04] INGEST | 6 Open-Source Libraries to FineTune LLMs
+
+- Files: raw/llm_finetune_libraries_20260504.md, sources/llm_finetune_libraries.md, topics/Building_AI_applications.md, wiki/index.md
+- Sources: LinkedIn post (curated list)
+- Notes: Ingest curated list of 6 essential fine-tuning libraries: Unsloth (speed/low VRAM), Axolotl (flexible configs), TRL (RLHF/DPO/PPO), DeepSpeed (distributed/ZeRO), LLaMA-Factory (UI/CLI/100+ models), PEFT (parameter-efficient). Updated Building AI Applications topic with LLM Fine-Tuning Tools section.
+
+## [2026-05-04] INGEST | VibeVoice - Microsoft Frontier Voice AI
+
+- Files: raw/vibevoice_20260504.md, sources/vibevoice.md, topics/audio_models.md, entities/microsoft.md, wiki/index.md
+- Sources: https://github.com/microsoft/VibeVoice
+- Notes: Ingest VibeVoice - Microsoft's open-source voice AI family: VibeVoice-ASR-7B (60-min single-pass ASR, 50+ languages), VibeVoice-TTS-1.5B (90-min multi-speaker TTS, ICLR 2026 Oral), VibeVoice-Realtime-0.5B (streaming TTS, 300ms latency). Core innovation: 7.5Hz continuous speech tokenizers with next-token diffusion. Updated Audio Models topic and Microsoft entity. Downloaded 5 images to wiki/media/.
+
+## [2026-05-03] INGEST | Voicebox - Local-First AI Voice Studio
+
+- Files: raw/voicebox_20260503.md, sources/voicebox.md, topics/ai_applications.md, wiki/index.md
+- Sources: https://github.com/jamiepine/voicebox
+- Notes: Ingest Voicebox - open-source AI voice studio (ElevenLabs + WisprFlow alternative). 7 TTS engines, global dictation, MCP agent voice output, stories editor, voice personalities with local LLM. Added to AI Applications topic under Voice Applications section.
+
+## [2026-05-03] INGEST | Qwen3-TTS - Open-Source TTS Model Series
+
+- Files: raw/qwen3_tts_20260122.md, sources/qwen3_tts.md, topics/audio_models.md, entities/qwen.md, wiki/index.md, mkdocs.yml
+- Sources: https://github.com/QwenLM/Qwen3-TTS
+- Notes: Ingest Qwen3-TTS - open-source TTS series (0.6B/1.7B) from Qwen (Alibaba) supporting voice clone, voice design, 10 languages, 97ms latency. Created new Audio Models topic under AI Fundamental. Created Qwen entity. Added 3 images to wiki/media/.
+
+## [2026-04-30] INGEST | Understand Anything - Codebase Knowledge Graph
+
+- Files: raw/understand_anything_20260430.md, sources/understand_anything.md, topics/builder_agents.md, topics/Research_agents.md
+- Sources: https://github.com/Lum1104/Understand-Anything
+- Notes: Ingest Understand Anything - Claude Code plugin that builds interactive knowledge graphs from codebases and wikis using multi-agent pipeline. Added to AI Coding Agents và Research Agents topics.
+
+## [2026-04-30] INGEST | 12 Essential Repos for ML/AI Engineers
+
+- Files: wiki/sources/12_essential_repos.md, wiki/entities/microsoft.md, wiki/topics/self_learning.md
+- Sources: raw/12_essential_repos.md
+- Notes: Ingest curated list of 13 essential repos for ML/AI engineers covering ML, RAG, PyTorch, MLOps, Agents. Created Microsoft entity, updated Self-Learning topic. Fixed broken URLs and cross-links.
+
 ## [2026-04-21] INGEST | dots.ocr - Document Layout Parsing
 
 - Files: raw/dots_ocr.md, sources/dots_ocr.md, topics/vision_models.md

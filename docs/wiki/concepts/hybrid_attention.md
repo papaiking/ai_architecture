@@ -42,7 +42,7 @@ Interleaves different layer types:
 ## Related Concepts
 
 - [MoE](./mixture_of_experts.md) - Expert routing
-- [Mamba](./state_space_model.md) - SSM architecture
+- [Gated Attention](./gated_attention.md) - SSM-related attention
 
 ---
 

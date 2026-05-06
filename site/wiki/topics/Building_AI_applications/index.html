@@ -12,7 +12,7 @@
         <link rel="prev" href="../self_learning/">
       
       
-        <link rel="next" href="../Data_processing/">
+        <link rel="next" href="../ai_observability/">
       
       
         
@@ -420,6 +420,34 @@
   
   
     <li class="md-nav__item">
+      <a href="../audio_models/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Audio Models
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../vision_models/" class="md-nav__link">
         
   
@@ -795,6 +823,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#llm-fine-tuning-tools" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LLM Fine-Tuning Tools
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -904,6 +943,34 @@
   
 </nav>
       
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ai_observability/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Observability
+  
+
+    
+  </span>
+  
+  
+
+      </a>
     </li>
   
 
@@ -1587,6 +1654,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#llm-fine-tuning-tools" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LLM Fine-Tuning Tools
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -1769,7 +1847,17 @@
 </ul>
 <h3 id="validation-and-testing"><strong>Validation and testing</strong></h3>
 <ul>
-<li>Use validation to tune, a held‑out test to estimate generalization; sometimes add “shadow deployment” or A/B tests to verify performance in production scenarios.</li>
+<li>Use validation to tune, a held‑out test to estimate generalization; sometimes add "shadow deployment" or A/B tests to verify performance in production scenarios.</li>
+</ul>
+<h3 id="llm-fine-tuning-tools"><strong>LLM Fine-Tuning Tools</strong></h3>
+<p>For LLM-specific fine-tuning, several open-source libraries are essential:</p>
+<ul>
+<li><a href="../../sources/llm_finetune_libraries/">Unsloth</a> — Fastest local fine-tuning, low VRAM optimized</li>
+<li><a href="../../sources/llm_finetune_libraries/">Axolotl</a> — Flexible YAML configs, LoRA/QLoRA/multi-GPU</li>
+<li><a href="../../sources/llm_finetune_libraries/">TRL</a> — RLHF, DPO, PPO for LLM alignment</li>
+<li><a href="../../sources/llm_finetune_libraries/">DeepSpeed</a> — Distributed training, ZeRO optimizer</li>
+<li><a href="../../sources/llm_finetune_libraries/">LLaMA-Factory</a> — All-in-one UI + CLI, 100+ models</li>
+<li><a href="../../sources/llm_finetune_libraries/">PEFT</a> — Parameter-efficient fine-tuning (LoRA, adapters)</li>
 </ul>
 <p>Think of this as a cycle you repeat many times: new idea → experiment → evaluate → either discard or promote to deployment.</p>
 <h2 id="4-deployment-and-inference-pipeline">4. Deployment and inference pipeline</h2>
@@ -1796,6 +1884,7 @@
 <h3 id="mlspecific-monitoring"><strong>ML‑specific monitoring</strong></h3>
 <ul>
 <li>Watch input distributions and output quality; detect data drift and concept drift; track live performance proxies or periodic human evaluation.</li>
+<li><a href="../ai_observability/">AI Observability</a> - LLM observability platforms</li>
 </ul>
 <h3 id="feedback-loop-and-retraining"><strong>Feedback loop and retraining</strong></h3>
 <ul>

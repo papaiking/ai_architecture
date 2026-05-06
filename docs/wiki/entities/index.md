@@ -14,6 +14,7 @@ Danh sách tất cả entities trong thư mục này, được phân loại theo
 
 ## M
 
+- [Microsoft](./microsoft.md) - Microsoft (tech company, ML/AI education)
 - [midudev](./midudev.md) - midudev (developer, Autoskills creator)
 - [Multica AI](./multica_ai.md) - Multica AI (agent platform company)
 

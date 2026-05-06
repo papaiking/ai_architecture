@@ -23,6 +23,11 @@ This topic covers various applications of Artificial Intelligence, focusing on h
 - [Segmentation with Internet-Augmented Multimodal LLMs](../sources/segmentation_internet_rag.md) - Using RAG to solve knowledge cutoff in segmentation models
 
 
+## Voice Applications
+
+- [Voicebox](../sources/voicebox.md) - Local-first AI voice studio: voice cloning, 7 TTS engines, global dictation, MCP agent voice output, stories editor
+
+
 ## Templates & Collections
 
 - [Awesome LLM Apps](../sources/awesome_llm_apps.md)
@@ -30,6 +35,8 @@ This topic covers various applications of Artificial Intelligence, focusing on h
     - 100+ AI Agent & RAG templates you can run (106k stars)
     - Starter AI Agents, Advanced Agents, Multi-agent Teams, Voice AI, MCP, RAG
     - Works with Claude, Gemini, OpenAI, xAI, Qwen, Llama
+
+
 
 ## Related Topics
 
