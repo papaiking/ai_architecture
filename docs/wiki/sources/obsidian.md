@@ -12,8 +12,8 @@ category: "Building_AI_applications"
 
 Ứng dụng ghi chú và quản lý "second brain" dựa trên Markdown — xây dựng và tổ chức kho kiến thức cá nhân dưới dạng các file .md liên kết với nhau như một graph kiến thức. Dữ liệu lưu local, offline-first, hỗ trợ plugin phong phú.
 
-**Website**: [obsidian.md](https://obsidian.md/)  
-**License**: Proprietary (free for personal use)
+- **Website**: [obsidian.md](https://obsidian.md/)  
+- **License**: Proprietary (free for personal use)
 
 ## Overview
 

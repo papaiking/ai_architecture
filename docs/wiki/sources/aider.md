@@ -11,10 +11,10 @@ related_topics: ["topics/builder_agents.md"]
 
 # Aider - AI Pair Programming
 
-**Organization**: Aider-AI
-**Stars**: 43k
-**License**: MIT
-**Website**: https://aider.chat/
+- **Organization**: Aider-AI
+- **Stars**: 43k
+- **License**: MIT
+- **Website**: https://aider.chat/
 
 ## Overview
 

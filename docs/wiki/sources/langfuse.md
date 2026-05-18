@@ -11,9 +11,9 @@ related_topics: ["topics/Building_AI_applications.md"]
 
 # Langfuse - Open Source LLM Engineering Platform
 
-**Organization**: langfuse
-**Stars**: 25k+
-**Website**: https://langfuse.com/
+- **Organization**: langfuse
+- **Stars**: 25k+
+- **Website**: https://langfuse.com/
 
 ## Overview
 

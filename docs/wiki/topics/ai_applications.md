@@ -4,7 +4,7 @@ type: "topic"
 category: "Building_AI_applications"
 tags: ["AI", "applications", "building"]
 created: "2026-04-19"
-updated: "2026-04-20"
+updated: "2026-05-18"
 sources: ["sources/awesome_llm_apps.md"]
 ---
 
@@ -26,6 +26,7 @@ This topic covers various applications of Artificial Intelligence, focusing on h
 ## Voice Applications
 
 - [Voicebox](../sources/voicebox.md) - Local-first AI voice studio: voice cloning, 7 TTS engines, global dictation, MCP agent voice output, stories editor
+- [Supertonic](../sources/supertonic.md) — Lightning-fast on-device multilingual TTS via ONNX Runtime, 99M params, 31 languages, edge-device ready, built-in apps (TLDRL, Read Aloud, PageEcho) (7.7k stars)
 
 
 ## Templates & Collections

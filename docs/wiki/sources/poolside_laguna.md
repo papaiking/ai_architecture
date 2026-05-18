@@ -11,9 +11,9 @@ related_topics: ["topics/llm.md", "topics/llm_inference.md"]
 
 # Poolside Laguna
 
-**Organization**: Poolside
-**Website**: https://poolside.ai/
-**GitHub**: https://github.com/poolsideAI
+- **Organization**: Poolside
+- **Website**: https://poolside.ai/
+- **GitHub**: https://github.com/poolsideAI
 
 ## Overview
 

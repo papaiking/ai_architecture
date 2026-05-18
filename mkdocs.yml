@@ -25,6 +25,7 @@ nav:
       - AI Observability: wiki/topics/ai_observability.md
       - Data processing: wiki/topics/Data_processing.md
       - Chunking document: wiki/topics/chunking_document.md
+      - RAG Applications: wiki/topics/rag_applications.md
       - AI Applications: wiki/topics/ai_applications.md
     - AI Agents:
       - Overview: wiki/topics/ai_agents.md
@@ -38,5 +39,6 @@ nav:
   - Summary sources: wiki/sources/index.md
   - Entities: wiki/entities/index.md
   - Concepts: wiki/concepts/index.md
+  - Philosophy: wiki/philosophy/index.md
   - Raw sources: raw/index.md
   - Log: wiki/log.md

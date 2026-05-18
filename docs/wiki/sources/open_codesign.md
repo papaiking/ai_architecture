@@ -11,8 +11,8 @@ related_topics: ["topics/personal_agent.md", "topics/ai_applications.md"]
 
 # Open CoDesign
 
-**Organization**: OpenCoworkAI
-**Repository**: OpenCoworkAI/open-codesign
+- **Organization**: OpenCoworkAI
+- **Repository**: OpenCoworkAI/open-codesign
 
 ## Overview
 

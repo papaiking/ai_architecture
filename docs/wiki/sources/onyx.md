@@ -6,14 +6,14 @@ tags: ["llm", "rag", "enterprise", "search", "chatbot", "mcp", "connectors"]
 created: "2026-04-22"
 updated: "2026-04-22"
 sources: ["raw/onyx.md"]
-related_topics: ["topics/ai_applications.md", "topics/agent_applications.md"]
+related_topics: ["topics/ai_applications.md", "topics/ai_agents.md"]
 ---
 
 # Onyx - Open Source AI Platform
 
-**Organization**: onyx-dot-app
-**Stars**: 27.4k
-**License**: MIT
+- **Organization**: onyx-dot-app
+- **Stars**: 27.4k
+- **License**: MIT
 
 ## Overview
 
@@ -74,7 +74,7 @@ curl -fsSL https://onyx.app/install_onyx.sh | bash
 ## Related Topics
 
 - [AI Applications](../topics/ai_applications.md)
-- [Agent Applications](../topics/agent_applications.md)
+- [AI Agents](../topics/ai_agents.md)
 
 ---
 

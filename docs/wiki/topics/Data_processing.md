@@ -13,6 +13,7 @@ Các công cụ và thư viện để xử lý dữ liệu, trích xuất tài l
 
 ## Libraries
 
+- [PageIndex](../sources/pageindex.md) - Vectorless, reasoning-based RAG with hierarchical tree index (18.7k stars)
 - [Scrapling](../sources/scrapling.md) - Adaptive web scraping framework
 - [OpenDataLoader PDF](../sources/opendataloader_pdf.md) - PDF data extraction with OCR & layout preservation
 - [LiteParse](../sources/liteparse.md) - Fast local PDF parsing

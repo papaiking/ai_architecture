@@ -2,6 +2,10 @@
 
 Danh sách tất cả sources trong thư mục này, được phân loại theo title (A-Z).
 
+## 0-9
+
+- [50 System Design Patterns](./50_system_design_patterns.md) — 50 patterns across 10 categories for system design interviews and production
+
 ## A
 
 - [Aider](./aider.md) - Aider (AI pair programming, 43k stars)
@@ -41,7 +45,9 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 ## M
 
+- [MCP Toolbox for Databases](./mcp_toolbox.md) — Open-source MCP server for databases by Google (15.2k stars)
 - [MedGemma](./medgemma.md) - MedGemma (medical AI LLM)
+- [Mirage](./mirage.md) — Unified Virtual Filesystem for AI Agents: mounts services as one filesystem with bash tools (2.2k stars)
 - [Multica](./multica.md) - Multica (agent platform)
 
 ## N
@@ -58,12 +64,17 @@ Danh sách tất cả sources trong thư mục này, được phân loại theo 
 
 ## P
 
+- [Personal AI Infrastructure (PAI)](./personal_ai_infrastructure.md) — Life OS on Claude Code, by Daniel Miessler
 - [Poolside Laguna](./poolside_laguna.md) - Poolside Laguna (open source coding model)
 - [Proxy-Pointer RAG](./proxy_pointer_rag.md) - Proxy-Pointer RAG (vectorless accuracy)
 
 ## Q
 
-- [QwenPaw](./qwenpaw.md) - QwenPaw (personal AI assistant)
+- [QwenPaw](./agentscope.md) - QwenPaw (personal AI assistant)
+
+## R
+
+- [Rowboat](./rowboat.md) — Open-source AI coworker with long-lived knowledge graph, Obsidian-compatible vault (14.1k stars)
 
 ## S
 

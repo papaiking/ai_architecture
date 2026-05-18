@@ -4,7 +4,7 @@ type: "topic"
 category: "Builder_agents"
 tags: ["ai-agents", "skills", "evolution"]
 created: "2026-04-20"
-updated: "2026-04-20"
+updated: "2026-05-15"
 ---
 
 # Agent Skills
@@ -13,6 +13,7 @@ Các hệ thống quản lý và phát triển skills cho AI agents.
 
 ## Related Sources
 
+- [Agent Skills (Open Standard)](../sources/agentskills.md) — Open format for agent skill files (`SKILL.md`), adopted by 30+ agent products
 - [SkillClaw](../sources/skillclaw.md) - Skill evolution system
 
 ---

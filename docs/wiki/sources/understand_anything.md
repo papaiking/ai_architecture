@@ -12,10 +12,10 @@ category: "Builder_agents"
 
 Turn any codebase, knowledge base, or docs into an interactive knowledge graph you can explore, search, and ask questions about.
 
-**GitHub**: [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)  
-**License**: MIT  
-**Homepage**: [understand-anything.com](https://understand-anything.com)  
-**Live Demo**: [Demo](https://understand-anything.com/demo/)
+- **GitHub**: [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)  
+- **License**: MIT  
+- **Homepage**: [understand-anything.com](https://understand-anything.com)  
+- **Live Demo**: [Demo](https://understand-anything.com/demo/)
 
 ![Understand Anything Dashboard](../media/understand-anything.png)
 

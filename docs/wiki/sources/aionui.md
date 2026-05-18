@@ -11,9 +11,9 @@ related_topics: ["topics/personal_agent.md"]
 
 # AionUi
 
-**Organization**: iOfficeAI  
-**Stars**: 22.3k  
-**License**: Apache-2.0
+- **Organization**: iOfficeAI
+- **Stars**: 22.3k
+- **License**: Apache-2.0
 
 ## Overview
 

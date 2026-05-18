@@ -11,9 +11,9 @@ related_topics: ["topics/llm.md", "topics/llm_inference.md"]
 
 # oLLM - Large-Context LLM Inference
 
-**Organization**: Mega4alik
-**Stars**: 2,365
-**License**: MIT
+- **Organization**: Mega4alik
+- **Stars**: 2,365
+- **License**: MIT
 
 ## Overview
 

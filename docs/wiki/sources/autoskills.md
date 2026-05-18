@@ -11,7 +11,7 @@ entities: ["midudev.md"]
 
 # Autoskills
 
-**Type**: CLI Tool
+- **Type**: CLI Tool
 
 One command. Your entire AI skill stack. Installed.
 

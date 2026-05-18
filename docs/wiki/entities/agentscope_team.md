@@ -24,4 +24,4 @@ Research team focused on building multi-agent platforms and personal AI assistan
 
 ## Liên kết liên quan
 
-- [QwenPaw](../sources/qwenpaw.md)
+- [QwenPaw](../sources/agentscope.md)

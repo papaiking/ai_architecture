@@ -10,7 +10,7 @@ related_topics: ["topics/builder_agents.md"]
 
 # Multica
 
-**Type**: Agent Platform
+- **Type**: Agent Platform
 
 ## Overview
 

@@ -10,7 +10,7 @@ related_topics: ["topics/Building_AI_apps.md"]
 
 # Scrapling
 
-**Type**: Web Scraping Framework
+- **Type**: Web Scraping Framework
 
 ## Overview
 

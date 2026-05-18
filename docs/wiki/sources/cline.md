@@ -11,9 +11,9 @@ related_topics: ["topics/builder_agents.md"]
 
 # Cline - Autonomous Coding Agent
 
-**Organization**: cline
-**Stars**: 59,627
-**Website**: https://cline.bot
+- **Organization**: cline
+- **Stars**: 59,627
+- **Website**: https://cline.bot
 
 ## Overview
 

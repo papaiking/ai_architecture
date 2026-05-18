@@ -12,10 +12,10 @@ category: "AI_Fundamental"
 
 Open-source TTS model series from Qwen (Alibaba Cloud) supporting voice clone, voice design, streaming speech generation, and natural language voice control across 10 languages.
 
-**GitHub**: [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) (11.1k stars)  
-**License**: Apache-2.0  
-**Paper**: [arXiv:2601.15621](https://arxiv.org/abs/2601.15621)  
-**Hugging Face**: [Qwen/qwen3-tts](https://huggingface.co/collections/Qwen/qwen3-tts)
+- **GitHub**: [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) (11.1k stars)  
+- **License**: Apache-2.0  
+- **Paper**: [arXiv:2601.15621](https://arxiv.org/abs/2601.15621)  
+- **Hugging Face**: [Qwen/qwen3-tts](https://huggingface.co/collections/Qwen/qwen3-tts)
 
 ## Overview
 

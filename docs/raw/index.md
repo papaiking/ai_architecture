@@ -49,7 +49,7 @@ Danh sách tất cả nguồn raw trong thư mục này, được phân loại t
 
 ## Q
 
-- [qwenpaw.md](./qwenpaw.md) - QwenPaw (personal AI assistant)
+- [agentscope.md](../wiki/sources/agentscope.md) - QwenPaw (personal AI assistant)
 
 ## S
 

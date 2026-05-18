@@ -11,7 +11,7 @@ entities: ["google_health.md"]
 
 # MedGemma
 
-**Type**: LLM - Medical AI
+- **Type**: LLM - Medical AI
 
 MedGemma is a collection of Gemma 3 variants trained for medical text and image comprehension.
 

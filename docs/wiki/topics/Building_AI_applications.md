@@ -2,9 +2,10 @@
 title: "Building AI Applications"
 type: "topic"
 category: "Building_AI_applications"
-tags: ["ai", "building"]
+tags: ["ai", "building", "system-design"]
 created: "2026-04-18"
-updated: "2026-04-19"
+updated: "2026-05-14"
+sources: ["sources/50_system_design_patterns.md"]
 ---
 
 # Building AI Applications
@@ -97,7 +98,13 @@ Deployment is where the model becomes part of a real application.
 
 In many modern AI apps, especially LLM or RAG systems, this pipeline also calls out to external model APIs and a vector database, but the structure (request → model → response) is the same.
 
-## 5. Monitoring, feedback, and MLOps
+## 5. System Design Patterns
+
+Foundational system design patterns that every AI engineer should know for building scalable, reliable applications:
+
+- [50 System Design Patterns Every Engineer Should Know](../sources/50_system_design_patterns.md) — Complete reference: 50 patterns across 10 categories (storage, caching, communication, reliability, scaling, data processing, API, infrastructure, consistency, observability)
+
+## 6. Monitoring, feedback, and MLOps
 
 A **pipeline** is not complete without continuous monitoring and improvement.
 

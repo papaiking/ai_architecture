@@ -11,8 +11,8 @@ related_topics: ["topics/Research_agents.md"]
 
 # Feynman - AI Research Agent
 
-**Organization**: getcompanion-ai  
-**Stars**: 5.7k
+- **Organization**: getcompanion-ai
+- **Stars**: 5.7k
 
 ## Overview
 

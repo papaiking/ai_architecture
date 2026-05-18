@@ -11,8 +11,8 @@ related_topics: ["topics/ai_landscape.md", "topics/foundation_models.md"]
 
 # Free NVIDIA APIs for Open Source Models
 
-**Provider**: NVIDIA  
-**Access**: https://build.nvidia.com/models
+- **Provider**: NVIDIA  
+- **Access**: https://build.nvidia.com/models
 
 ![NVIDIA Free APIs](../media/nvidia_free_apis.png)
 

@@ -12,7 +12,7 @@ related_concepts: ["concepts/page_index.md", "concepts/proxy_pointer_rag.md"]
 
 # Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost
 
-**Author**: VNG
+- **Author**: VNG
 
 ## Overview
 

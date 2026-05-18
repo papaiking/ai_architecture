@@ -12,10 +12,10 @@ category: "Building_AI_applications"
 
 Open-source local-first AI voice studio — an alternative to ElevenLabs and WisprFlow in one desktop app. Clone voices, generate speech in 23 languages across 7 TTS engines, global dictation, and give MCP-aware AI agents a voice.
 
-**GitHub**: [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  
-**Website**: [voicebox.sh](https://voicebox.sh)  
-**Docs**: [docs.voicebox.sh](https://docs.voicebox.sh)  
-**License**: MIT
+- **GitHub**: [jamiepine/voicebox](https://github.com/jamiepine/voicebox)  
+- **Website**: [voicebox.sh](https://voicebox.sh)  
+- **Docs**: [docs.voicebox.sh](https://docs.voicebox.sh)  
+- **License**: MIT
 
 ## Overview
 

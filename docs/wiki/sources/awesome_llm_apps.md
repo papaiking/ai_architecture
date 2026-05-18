@@ -10,7 +10,7 @@ related_topics: ["topics/builder_agents.md", "topics/agent_skills.md"]
 
 # Awesome LLM Apps
 
-**Type**: AI Agent & RAG Templates Collection
+- **Type**: AI Agent & RAG Templates Collection
 
 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 

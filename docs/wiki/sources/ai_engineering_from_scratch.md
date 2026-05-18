@@ -10,7 +10,7 @@ related_topics: ["topics/ai_landscape.md", "topics/self_learning.md"]
 
 # AI Engineering from Scratch
 
-**Type**: Comprehensive AI Learning Course
+- **Type**: Comprehensive AI Learning Course
 
 From linear algebra to autonomous agent swarms. Learn AI **with** AI, then ship the tools.
 

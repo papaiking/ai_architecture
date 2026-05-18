@@ -10,7 +10,7 @@ related_topics: ["topics/Data_processing.md"]
 
 # LiteParse
 
-**Type**: PDF Data Extraction Tool
+- **Type**: PDF Data Extraction Tool
 
 ## Overview
 

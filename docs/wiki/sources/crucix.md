@@ -11,9 +11,9 @@ related_topics: ["topics/ai_applications.md"]
 
 # Crucix - Personal Intelligence Agent
 
-**Organization**: calesthio
-**Repository**: calesthio/Crucix
-**License**: MIT
+- **Organization**: calesthio
+- **Repository**: calesthio/Crucix
+- **License**: MIT
 
 ## Overview
 

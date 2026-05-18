@@ -12,11 +12,11 @@ category: "AI_Fundamental"
 
 Open-source frontier voice AI family from Microsoft — includes TTS (long-form multi-speaker, real-time streaming) and ASR (60-minute single-pass) models built on continuous speech tokenizers at 7.5 Hz and next-token diffusion.
 
-**GitHub**: [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)  
-**Project Page**: [microsoft.github.io/VibeVoice](https://microsoft.github.io/VibeVoice)  
-**Hugging Face**: [microsoft/vibevoice](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f)  
-**Paper (TTS)**: [ICLR 2026 Oral](https://arxiv.org/pdf/2508.19205)  
-**Paper (ASR)**: [arXiv:2601.18184](https://arxiv.org/pdf/2601.18184)
+- **GitHub**: [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)  
+- **Project Page**: [microsoft.github.io/VibeVoice](https://microsoft.github.io/VibeVoice)  
+- **Hugging Face**: [microsoft/vibevoice](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f)  
+- **Paper (TTS)**: [ICLR 2026 Oral](https://arxiv.org/pdf/2508.19205)  
+- **Paper (ASR)**: [arXiv:2601.18184](https://arxiv.org/pdf/2601.18184)
 
 ## Overview
 

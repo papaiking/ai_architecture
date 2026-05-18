@@ -10,7 +10,7 @@ related_topics: ["topics/agent_skills.md"]
 
 # SkillClaw
 
-**Type**: Skill Evolution System
+- **Type**: Skill Evolution System
 
 Let Skills Evolve Collectively with Agentic Evolver.
 

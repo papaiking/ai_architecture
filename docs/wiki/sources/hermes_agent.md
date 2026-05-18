@@ -10,7 +10,7 @@ related_topics: ["topics/personal_agent.md"]
 
 # Hermes Agent
 
-**Type**: Personal AI Agent
+- **Type**: Personal AI Agent
 
 ## Overview
 

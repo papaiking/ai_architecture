@@ -11,8 +11,8 @@ related_topics: ["topics/personal_agent.md"]
 
 # AnythingLLM
 
-**Organization**: Mintplex-Labs  
-**Stars**: 58.7k
+- **Organization**: Mintplex-Labs
+- **Stars**: 58.7k
 
 ## Overview
 

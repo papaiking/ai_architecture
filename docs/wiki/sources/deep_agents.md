@@ -11,7 +11,7 @@ related_topics: ["topics/builder_agents.md"]
 
 # Deep Agents
 
-**Organization**: LangChain
+- **Organization**: LangChain
 
 ## Overview
 

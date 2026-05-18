@@ -11,8 +11,8 @@ related_topics: ["topics/ai_landscape.md", "topics/foundation_models.md"]
 
 # LFM2.5-Audio-1.5B
 
-**Organization**: Liquid AI  
-**Model**: 1.5B parameters
+- **Organization**: Liquid AI
+- **Model**: 1.5B parameters
 
 ## Overview
 

@@ -11,7 +11,7 @@ related_concepts: ["concepts/classification_with_internet_rag.md"]
 
 # Segmentation with Internet-Augmented Multimodal LLMs
 
-**Type**: Research Paper
+- **Type**: Research Paper
 
 [arXiv](https://arxiv.org/abs/2604.14147v1)
 

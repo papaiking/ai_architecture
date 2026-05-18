@@ -11,8 +11,8 @@ related_topics: ["topics/foundation_models.md"]
 
 # dots.ocr
 
-**Organization**: rednote-hilab  
-**Stars**: 8.5k
+- **Organization**: rednote-hilab
+- **Stars**: 8.5k
 
 ## Overview
 

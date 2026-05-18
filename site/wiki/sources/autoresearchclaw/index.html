@@ -701,6 +701,34 @@
   
   
     <li class="md-nav__item">
+      <a href="../../topics/rag_applications/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    RAG Applications
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../topics/ai_applications/" class="md-nav__link">
         
   
@@ -1076,6 +1104,33 @@
   
   
     <li class="md-nav__item">
+      <a href="../../philosophy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Philosophy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../../../raw/" class="md-nav__link">
         
   
@@ -1194,10 +1249,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#intervention-modes" class="md-nav__link">
+  <a href="#intervention-modes-v040" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Intervention Modes
+        Intervention Modes (v0.4.0)
       
     </span>
   </a>
@@ -1209,6 +1264,61 @@
     <span class="md-ellipsis">
       
         Pipeline Stages
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metaclaw-integration-results" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MetaClaw Integration Results
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#openclaw-acp-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OpenClaw &amp; ACP Integration
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#skills-library" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Skills Library
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#showcase" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Showcase
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ethics-responsible-use" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ethics &amp; Responsible Use
       
     </span>
   </a>
@@ -1238,32 +1348,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#openclaw-integration" class="md-nav__link">
+  <a href="#nguon" class="md-nav__link">
     <span class="md-ellipsis">
       
-        OpenClaw Integration
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#related-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Related Projects
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#source" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Source
+        Nguồn
       
     </span>
   </a>
@@ -1299,42 +1387,51 @@
 
 
 <h1 id="autoresearchclaw">AutoResearchClaw</h1>
-<p><strong>Type</strong>: Research Agent</p>
+<ul>
+<li><strong>Source:</strong> <a href="https://github.com/aiming-lab/AutoResearchClaw">github.com/aiming-lab/AutoResearchClaw</a></li>
+<li><strong>Stars:</strong> 12.1k | <strong>License:</strong> MIT | <strong>Tests:</strong> 2,699 passed</li>
+</ul>
 <p>Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper.</p>
 <p><a href="https://github.com/aiming-lab/AutoResearchClaw">GitHub</a> | <a href="https://discord.gg/u4ksqW5P">Discord</a></p>
 <h2 id="overview">Overview</h2>
-<p>AutoResearchClaw is a fully autonomous 23-stage research pipeline that turns a single research idea into a conference-ready paper with real literature, hardware-aware experiments, and LaTeX output targeting NeurIPS/ICML/ICLR.</p>
+<p><img alt="AutoResearchClaw Framework v2.0" src="../../media/autoresearchclaw_framework_v2.png" /></p>
+<p>AutoResearchClaw is a fully autonomous 23-stage research pipeline that turns a single research idea into a conference-ready paper with real literature, hardware-aware experiments, and LaTeX output targeting NeurIPS/ICML/ICLR. v0.4.0 introduces Human-in-the-Loop Co-Pilot mode for guided collaboration.</p>
 <h2 id="details">Details</h2>
 <ul>
 <li><strong>Org</strong>: aiming-lab</li>
-<li><strong>Stars</strong>: 11.3k</li>
-<li><strong>Forks</strong>: 1.3k</li>
-<li><strong>Commits</strong>: 225</li>
+<li><strong>Stars</strong>: 12.1k</li>
+<li><strong>Forks</strong>: 1.4k</li>
+<li><strong>Commits</strong>: 235</li>
 <li><strong>License</strong>: MIT</li>
 <li><strong>Tests</strong>: 2,699 passed</li>
 <li><strong>Languages</strong>: Python 3.11+</li>
 </ul>
 <h2 id="latest-updates">Latest Updates</h2>
 <ul>
-<li><strong>v0.4.0</strong> (Apr 2026) — Human-in-the-Loop Co-Pilot System with 6 intervention modes, Idea Workshop, Baseline Navigator, Paper Co-Writer, SmartPause, cost guardrails</li>
-<li><strong>v0.3.2</strong> — Cross-Platform Support, ACP-compatible agents (Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Kimi CLI), messaging platforms via OpenClaw</li>
+<li><strong>v0.4.0</strong> (Apr 2026) — Human-in-the-Loop Co-Pilot System with 6 intervention modes, Idea Workshop, Baseline Navigator, Paper Co-Writer, SmartPause, cost guardrails, claim verification, branch exploration</li>
+<li><strong>v0.3.2</strong> — Cross-Platform Support, ACP-compatible agents (Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Kimi CLI), messaging platforms via OpenClaw bridge, anti-fabrication system</li>
 <li><strong>v0.3.1</strong> — OpenCode Beast Mode for complex experiments</li>
-<li><strong>v0.3.0</strong> — MetaClaw Integration for cross-run learning</li>
+<li><strong>v0.3.0</strong> — MetaClaw Integration for cross-run learning (+18.3% robustness)</li>
+<li><strong>v0.2.0</strong> — CodeAgent, BenchmarkAgent, FigureAgent subsystems</li>
+<li><strong>v0.1.0</strong> — Initial release: fully autonomous 23-stage pipeline</li>
 </ul>
 <h2 id="key-features">Key Features</h2>
 <ul>
 <li><strong>End-to-End Pipeline</strong> — 23 stages, 8 phases: Scoping → Literature → Synthesis → Design → Execution → Analysis → Writing → Finalization</li>
-<li><strong>Multi-Source Literature</strong> — Real papers from OpenAlex, Semantic Scholar &amp; arXiv</li>
+<li><strong>Multi-Source Literature</strong> — Real papers from OpenAlex, Semantic Scholar &amp; arXiv with query expansion and deduplication</li>
 <li><strong>4-Layer Citation Verification</strong> — arXiv ID → CrossRef/DataCite → title match → LLM relevance scoring</li>
 <li><strong>Hardware-Aware Execution</strong> — Auto-detects GPU (NVIDIA CUDA / Apple MPS / CPU-only)</li>
 <li><strong>OpenCode Beast Mode</strong> — Complex experiments auto-routed to OpenCode</li>
-<li><strong>Sandbox Experiments</strong> — AST-validated code, self-healing, iterative refinement (up to 10 rounds)</li>
-<li><strong>Co-Pilot Mode</strong> — Human-in-the-loop collaboration at critical stages</li>
+<li><strong>HITL Co-Pilot (v0.4.0)</strong> — 6 intervention modes with Idea Workshop, Baseline Navigator, Paper Co-Writer, SmartPause</li>
+<li><strong>Anti-Fabrication</strong> — VerifiedRegistry enforces ground-truth data, auto-diagnoses failed experiments</li>
+<li><strong>Claim Verification</strong> — Inline fact-checking against collected literature</li>
+<li><strong>Branch Exploration</strong> — Fork pipeline to explore multiple hypotheses simultaneously</li>
 <li><strong>Conference-Grade Writing</strong> — NeurIPS/ICML/ICLR LaTeX templates (5,000-6,500 words)</li>
 <li><strong>MetaClaw Integration</strong> — Cross-run learning from failures (+18.3% robustness)</li>
-<li><strong>Skills Library</strong> — 19 pre-loaded skills + custom skills support</li>
+<li><strong>Skills Library</strong> — 19 pre-loaded skills + custom skills support + community skills</li>
+<li><strong>ACP Support</strong> — Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Kimi CLI as backends</li>
 </ul>
-<h2 id="intervention-modes">Intervention Modes</h2>
+<h2 id="intervention-modes-v040">Intervention Modes (v0.4.0)</h2>
 <table>
 <thead>
 <tr>
@@ -1374,8 +1471,14 @@
 <td><code>--mode express</code></td>
 <td>Quick review — 3 most critical gates</td>
 </tr>
+<tr>
+<td><strong>Custom</strong></td>
+<td><code>--mode custom</code></td>
+<td>Per-stage policies via <code>stage_policies</code> config</td>
+</tr>
 </tbody>
 </table>
+<p>Co-pilot capabilities: Idea Workshop (hypothesis co-creation), Baseline Navigator (experiment design review), Paper Co-Writer (collaborative drafting), SmartPause (confidence-driven pausing), cost guardrails, escalation policies, ALHF intervention learning.</p>
 <h2 id="pipeline-stages">Pipeline Stages</h2>
 <pre><code>Phase A: Research Scoping      Stage 1-2
 Phase B: Literature Discovery  Stage 3-6
@@ -1386,6 +1489,52 @@ Phase F: Analysis &amp; Decision    Stage 14-15
 Phase G: Paper Writing          Stage 16-19
 Phase H: Finalization          Stage 20-23
 </code></pre>
+<p>Gate stages (5, 9, 20) pause for approval. Stage 15 can trigger REFINE or PIVOT. Co-pilot collaboration at Stages 7-8, 9, 16-17.</p>
+<h2 id="metaclaw-integration-results">MetaClaw Integration Results</h2>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Baseline</th>
+<th>With MetaClaw</th>
+<th>Improvement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stage retry rate</td>
+<td>10.5%</td>
+<td>7.9%</td>
+<td>-24.8%</td>
+</tr>
+<tr>
+<td>Refine cycle count</td>
+<td>2.0</td>
+<td>1.2</td>
+<td>-40.0%</td>
+</tr>
+<tr>
+<td>Pipeline stage completion</td>
+<td>18/19</td>
+<td>19/19</td>
+<td>+5.3%</td>
+</tr>
+<tr>
+<td>Overall robustness</td>
+<td>0.714</td>
+<td>0.845</td>
+<td>+18.3%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="openclaw-acp-integration">OpenClaw &amp; ACP Integration</h2>
+<p>Runs via OpenClaw ("Research X" → done), or any ACP-compatible agent (Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Kimi CLI, OpenCode). Bridge adapter system with 6 optional capabilities (cron, messaging, memory, sessions spawn, web fetch, browser).</p>
+<h2 id="skills-library">Skills Library</h2>
+<p>19 pre-loaded built-in skills (scientific writing, literature search, chemistry, biology, etc.) + community skills. Install custom skills via <code>researchclaw skills install</code> or drop a <code>SKILL.md</code> into <code>.claude/skills/</code>.</p>
+<h2 id="showcase">Showcase</h2>
+<p>8 papers across 8 domains (math, statistics, biology, computing, NLP, RL, vision, robustness) — generated autonomously or with co-pilot guidance.</p>
+<h2 id="ethics-responsible-use">Ethics &amp; Responsible Use</h2>
+<p>Comprehensive ethics guidelines covering academic integrity, transparency, citation verification, misuse prevention, and dual-use considerations. AI-generated papers are drafts requiring human review before any submission.</p>
 <h2 id="output">Output</h2>
 <ul>
 <li><code>paper_draft.md</code> — Full academic paper</li>
@@ -1398,28 +1547,15 @@ Phase H: Finalization          Stage 20-23
 <li><code>deliverables/</code> — Compile-ready for Overleaf</li>
 </ul>
 <h2 id="quick-start">Quick Start</h2>
-<pre><code class="language-bash"># Clone &amp; install
-git clone https://github.com/aiming-lab/AutoResearchClaw.git
+<pre><code class="language-bash">git clone https://github.com/aiming-lab/AutoResearchClaw.git
 cd AutoResearchClaw
 pip install -e .
-
-# Setup
 researchclaw setup
 researchclaw init
-
-# Run
 export OPENAI_API_KEY=&quot;sk-...&quot;
 researchclaw run --topic &quot;Your research idea&quot; --auto-approve
 </code></pre>
-<h2 id="openclaw-integration">OpenClaw Integration</h2>
-<p>AutoResearchClaw is OpenClaw-compatible. Share the repo URL with OpenClaw and say "Research [topic]" — OpenClaw handles installation and execution automatically.</p>
-<h2 id="related-projects">Related Projects</h2>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a> — Agent platform</li>
-<li><a href="https://github.com/aiming-lab/MetaClaw">MetaClaw</a> — Cross-run learning</li>
-</ul>
-<hr />
-<h2 id="source">Source</h2>
+<h2 id="nguon">Nguồn</h2>
 <ul>
 <li><a href="../../../raw/autoresearchclaw/">Raw Source</a></li>
 <li><a href="https://github.com/aiming-lab/AutoResearchClaw">GitHub Repository</a></li>
@@ -1428,6 +1564,8 @@ researchclaw run --topic &quot;Your research idea&quot; --auto-approve
 <ul>
 <li><a href="../../topics/Research_agents/">Research Agents</a></li>
 <li><a href="../../entities/aiming_lab/">Aiming Lab</a></li>
+<li><a href="https://github.com/aiming-lab/MetaClaw">MetaClaw</a> — Cross-run learning</li>
+<li><a href="https://github.com/openclaw/openclaw">OpenClaw</a> — Agent platform</li>
 </ul>
 
 
